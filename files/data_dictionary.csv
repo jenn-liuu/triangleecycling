@@ -1,0 +1,60 @@
+file,column,type,description
+bluesky_line_items.csv,line_id,integer,Row identifier 1-449
+bluesky_line_items.csv,shipment_ref,text,Bluesky shipment reference (RAL-i####); key to shipments file
+bluesky_line_items.csv,ship_date,date,Shipping date on the report; use for time analysis (not the document header date)
+bluesky_line_items.csv,year,integer,Calendar year of ship_date
+bluesky_line_items.csv,month,text,YYYY-MM of ship_date; shipments are irregular so avoid monthly zero-filled charts
+bluesky_line_items.csv,commodity_raw,text,Commodity label exactly as printed (150 values)
+bluesky_line_items.csv,commodity_clean,text,Standardized commodity (66 values; draft mapping)
+bluesky_line_items.csv,commodity_group,text,Broader category (14 values)
+bluesky_line_items.csv,net_lbs,number,"Net weight, assumed pounds; blank for flat-amount lines"
+bluesky_line_items.csv,piece_count,integer,Piece count on report; almost always 0; do not use for volume
+bluesky_line_items.csv,price_per_lb,number,USD per unit of Net weight; negative = Triangle pays; blank for flat lines
+bluesky_line_items.csv,price_by,text,Net (per weight) or Flat (fixed amount)
+bluesky_line_items.csv,line_type,text,"weighted (439), freight (9), flat_amount (1)"
+bluesky_line_items.csv,line_total,number,USD line total; negative = cost to Triangle
+bluesky_line_items.csv,no_value_label,logical,"Label contains ""(No Value)"""
+bluesky_line_items.csv,from_es_mix_breakout,logical,Itemized breakout of ES Mix on RAL-i8301; avoid double counting
+bluesky_line_items.csv,qa_flag,text,Automated review note; blank for 421 rows
+bluesky_line_items.csv,source_file,text,Original PDF name
+bluesky_shipments.csv,shipment_ref,text,Shipment reference; unique
+bluesky_shipments.csv,ship_date,date,Shipping date
+bluesky_shipments.csv,doc_type,text,Purchase Order (21) or Invoice (1)
+bluesky_shipments.csv,doc_number,text,Document number as printed
+bluesky_shipments.csv,parsed_lines,integer,Lines extracted incl. freight and flat lines
+bluesky_shipments.csv,printed_net_lbs,number,Printed total net weight (assumed lbs)
+bluesky_shipments.csv,printed_total,number,Printed total USD after freight
+bluesky_shipments.csv,freight_total,number,Sum of freight lines (negative) USD
+bluesky_shipments.csv,gross_value_before_freight,number,printed_total minus freight_total
+bluesky_shipments.csv,value_per_lb,number,printed_total / printed_net_lbs (net of freight)
+bluesky_shipments.csv,parsed_net_lbs,number,Sum of parsed net_lbs
+bluesky_shipments.csv,parsed_total,number,Sum of parsed line_total
+bluesky_shipments.csv,net_diff,number,parsed minus printed weight
+bluesky_shipments.csv,total_diff,number,parsed minus printed dollars
+bluesky_shipments.csv,reconciles,logical,TRUE if abs(total_diff) < 0.01
+bluesky_shipments.csv,uses_es_mix_aggregate,logical,Report has a blended ES Mix line (10 shipments)
+bluesky_shipments.csv,source_file,text,Original PDF name
+commodity_mapping.csv,commodity_raw,text,Label as printed; unique
+commodity_mapping.csv,commodity_clean,text,Standardized name
+commodity_mapping.csv,commodity_group,text,Broader category
+commodity_mapping.csv,n_lines,integer,Number of lines with this label
+commodity_mapping.csv,first_seen,date,Earliest ship date
+commodity_mapping.csv,last_seen,date,Latest ship date
+parts_lot_clean.csv,row_id,integer,Row id 1-143
+parts_lot_clean.csv,brand,text,"Dell, Lenovo, HP, Microsoft, ASUS, Apple"
+parts_lot_clean.csv,model,text,Model as listed
+parts_lot_clean.csv,cpu_family,text,i3/i5/i7/i9/Ryzen/Xeon; one value has trailing space
+parts_lot_clean.csv,cpu_core,text,Processor model string
+parts_lot_clean.csv,ram_raw,text,RAM as listed
+parts_lot_clean.csv,grade,text,Seller grade A-D; criteria undefined
+parts_lot_clean.csv,missing_item,text,Missing part (4 rows)
+parts_lot_clean.csv,note,text,No power (4) or Bad screen (3)
+parts_lot_clean.csv,qty,number,Units on line; sums to 300
+parts_lot_clean.csv,missing_deduction_per_unit,number,"Per-unit price reduction (inferred); 0 on 141 rows, 7 on one, -15 on one"
+parts_lot_clean.csv,unit_price,number,Listed price per unit USD
+parts_lot_clean.csv,bulk_line_price,number,Listed bulk price for line USD; sums to 23033
+parts_lot_clean.csv,ram_gb,number,RAM in GB
+parts_lot_clean.csv,cpu_gen_intel,number,Intel Core generation 7-13; blank for Ryzen/Xeon (14 rows)
+parts_lot_clean.csv,has_defect,logical,missing_item or note present
+parts_lot_clean.csv,line_value_unit_x_qty,number,unit_price x qty
+parts_lot_clean.csv,bulk_check_ok,logical,bulk_line_price = (unit_price - deduction) x qty; TRUE for all

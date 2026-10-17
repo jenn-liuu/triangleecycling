@@ -1,0 +1,450 @@
+line_id,shipment_ref,ship_date,year,month,commodity_raw,commodity_clean,commodity_group,net_lbs,piece_count,price_per_lb,price_by,line_type,line_total,no_value_label,from_es_mix_breakout,qa_flag,source_file
+1,RAL-i6935,2025-01-06,2025,2025-01,Freight - Trucking,Freight - Trucking,Fees / Adjustments,,0,,Flat,freight,-300.0,False,False,,Triangle Ecycling RAL-i6935_ PO-461.pdf
+2,RAL-i6935,2025-01-06,2025,2025-01,Wire_Mix,Wire - Mix,Wire,889.0,0,0.7,Net,weighted,622.3,False,False,,Triangle Ecycling RAL-i6935_ PO-461.pdf
+3,RAL-i6935,2025-01-06,2025,2025-01,Screen_LCD (No Value),Screens - LCD / Flat,Screens & Displays,2371.0,0,0.0,Net,weighted,0.0,True,False,,Triangle Ecycling RAL-i6935_ PO-461.pdf
+4,RAL-i6935,2025-01-06,2025,2025-01,PC_MixedTowers,PC - Mixed Towers,Computers & Laptops,2597.0,0,0.45,Net,weighted,1168.65,False,False,,Triangle Ecycling RAL-i6935_ PO-461.pdf
+5,RAL-i6935,2025-01-06,2025,2025-01,Laptops_Mixed,Laptops - Mixed,Computers & Laptops,1071.0,0,1.4,Net,weighted,1499.4,False,False,,Triangle Ecycling RAL-i6935_ PO-461.pdf
+6,RAL-i6935,2025-01-06,2025,2025-01,Network,Network,Servers & Network,854.0,0,1.0,Net,weighted,854.0,False,False,,Triangle Ecycling RAL-i6935_ PO-461.pdf
+7,RAL-i6935,2025-01-06,2025,2025-01,Light Bulbs (No Value),Lighting,Other,524.0,0,0.0,Net,weighted,0.0,True,False,,Triangle Ecycling RAL-i6935_ PO-461.pdf
+8,RAL-i6935,2025-01-06,2025,2025-01,Toner (No Value),Toner,Peripherals & Accessories,631.0,0,0.0,Net,weighted,0.0,True,False,,Triangle Ecycling RAL-i6935_ PO-461.pdf
+9,RAL-i6935,2025-01-06,2025,2025-01,Steel,Steel,Metals,537.0,0,0.03,Net,weighted,16.11,False,False,,Triangle Ecycling RAL-i6935_ PO-461.pdf
+10,RAL-i6935,2025-01-06,2025,2025-01,AdapterLaptop,Adapters - Laptop,Power & Electrical,16.0,0,0.3,Net,weighted,4.8,False,False,,Triangle Ecycling RAL-i6935_ PO-461.pdf
+11,RAL-i6935,2025-01-06,2025,2025-01,Adapter_No Wire,Adapters - No Wire,Power & Electrical,49.0,0,0.2,Net,weighted,9.8,False,False,,Triangle Ecycling RAL-i6935_ PO-461.pdf
+12,RAL-i6935,2025-01-06,2025,2025-01,Aluminum-Breakage,Aluminum - Breakage,Metals,438.0,0,0.2,Net,weighted,87.6,False,False,,Triangle Ecycling RAL-i6935_ PO-461.pdf
+13,RAL-i6935,2025-01-06,2025,2025-01,AV_equipment,AV Equipment,Phones & AV,852.0,0,0.11,Net,weighted,93.72,False,False,,Triangle Ecycling RAL-i6935_ PO-461.pdf
+14,RAL-i6935,2025-01-06,2025,2025-01,CableBox_Modem,Cable Box / Modem,Servers & Network,147.0,0,0.7,Net,weighted,102.9,False,False,,Triangle Ecycling RAL-i6935_ PO-461.pdf
+15,RAL-i6935,2025-01-06,2025,2025-01,Chassis_Chassis,Chassis,Metals,56.0,0,0.3,Net,weighted,16.8,False,False,,Triangle Ecycling RAL-i6935_ PO-461.pdf
+16,RAL-i6935,2025-01-06,2025,2025-01,FocusMaterial_CRT,CRT,Screens & Displays,43.0,2,-1.0,Net,weighted,-43.0,False,False,negative price (cost to Triangle),Triangle Ecycling RAL-i6935_ PO-461.pdf
+17,RAL-i6935,2025-01-06,2025,2025-01,DockingStations_DockingStation,Docking Stations,Peripherals & Accessories,65.0,0,0.25,Net,weighted,16.25,False,False,,Triangle Ecycling RAL-i6935_ PO-461.pdf
+18,RAL-i6935,2025-01-06,2025,2025-01,Industrial_ElectricMotor,Electric Motors,Industrial,40.0,0,0.22,Net,weighted,8.8,False,False,,Triangle Ecycling RAL-i6935_ PO-461.pdf
+19,RAL-i6935,2025-01-06,2025,2025-01,Flat Screen TV (No Value),Screens - LCD / Flat,Screens & Displays,24.0,2,0.0,Net,weighted,0.0,True,False,,Triangle Ecycling RAL-i6935_ PO-461.pdf
+20,RAL-i6935,2025-01-06,2025,2025-01,Keyboards and Mice (No Value),Keyboards / Mice,Peripherals & Accessories,405.0,0,0.0,Net,weighted,0.0,True,False,,Triangle Ecycling RAL-i6935_ PO-461.pdf
+21,RAL-i6935,2025-01-06,2025,2025-01,Laptops_mixed,Laptops - Mixed,Computers & Laptops,137.0,0,1.4,Net,weighted,191.8,False,False,,Triangle Ecycling RAL-i6935_ PO-461.pdf
+22,RAL-i6935,2025-01-06,2025,2025-01,Screen_LCD (No Value),Screens - LCD / Flat,Screens & Displays,778.0,0,0.0,Net,weighted,0.0,True,False,,Triangle Ecycling RAL-i6935_ PO-461.pdf
+23,RAL-i6935,2025-01-06,2025,2025-01,MDU,MDU,Other,64.0,0,0.28,Net,weighted,17.92,False,False,,Triangle Ecycling RAL-i6935_ PO-461.pdf
+24,RAL-i6935,2025-01-06,2025,2025-01,MedicalEquipment_Medical,Medical Equipment,Other,53.0,0,0.35,Net,weighted,18.55,False,False,,Triangle Ecycling RAL-i6935_ PO-461.pdf
+25,RAL-i6935,2025-01-06,2025,2025-01,Boards_Midgrade,Boards - Midgrade,Boards & Drives,14.0,0,2.5,Net,weighted,35.0,False,False,,Triangle Ecycling RAL-i6935_ PO-461.pdf
+26,RAL-i6935,2025-01-06,2025,2025-01,Network_Network,Network,Servers & Network,43.0,0,1.0,Net,weighted,43.0,False,False,,Triangle Ecycling RAL-i6935_ PO-461.pdf
+27,RAL-i6935,2025-01-06,2025,2025-01,PC_MixedTowers,PC - Mixed Towers,Computers & Laptops,69.0,0,0.45,Net,weighted,31.05,False,False,,Triangle Ecycling RAL-i6935_ PO-461.pdf
+28,RAL-i6935,2025-01-06,2025,2025-01,Phones_OfficePhones,Phones - Office,Phones & AV,618.0,0,0.31,Net,weighted,191.58,False,False,,Triangle Ecycling RAL-i6935_ PO-461.pdf
+29,RAL-i6935,2025-01-06,2025,2025-01,Projectors_projector,Projectors,Peripherals & Accessories,325.0,0,0.2,Net,weighted,65.0,False,False,,Triangle Ecycling RAL-i6935_ PO-461.pdf
+30,RAL-i6935,2025-01-06,2025,2025-01,Scanners__scanner/cardreader,Printers,Peripherals & Accessories,9.0,0,0.6,Net,weighted,5.4,False,False,,Triangle Ecycling RAL-i6935_ PO-461.pdf
+31,RAL-i6935,2025-01-06,2025,2025-01,Server__mixed,Server - Mixed,Servers & Network,8.0,0,0.7,Net,weighted,5.6,False,False,,Triangle Ecycling RAL-i6935_ PO-461.pdf
+32,RAL-i6935,2025-01-06,2025,2025-01,UPS WithBattery,UPS - With Batteries,Power & Electrical,1210.0,0,0.25,Net,weighted,302.5,False,False,,Triangle Ecycling RAL-i6935_ PO-461.pdf
+33,RAL-i6935,2025-01-06,2025,2025-01,Wire_Computer,Wire - Computer,Wire,121.0,0,0.7,Net,weighted,84.7,False,False,,Triangle Ecycling RAL-i6935_ PO-461.pdf
+34,RAL-i6935,2025-01-06,2025,2025-01,Shred_Shred,Shred,Metals,4172.0,0,0.03,Net,weighted,125.16,False,False,,Triangle Ecycling RAL-i6935_ PO-461.pdf
+35,RAL-i7071,2025-01-31,2025,2025-01,Freight - Trucking,Freight - Trucking,Fees / Adjustments,,0,,Flat,freight,-300.0,False,False,,Triangle Ecycling RAL-i7071_ PO-652.pdf
+36,RAL-i7071,2025-01-31,2025,2025-01,Printers (No Value),Printers,Peripherals & Accessories,146.0,0,0.0,Net,weighted,0.0,True,False,,Triangle Ecycling RAL-i7071_ PO-652.pdf
+37,RAL-i7071,2025-01-31,2025,2025-01,Wire_Mix,Wire - Mix,Wire,1901.0,0,0.7,Net,weighted,1330.7,False,False,,Triangle Ecycling RAL-i7071_ PO-652.pdf
+38,RAL-i7071,2025-01-31,2025,2025-01,Screen_LCD-mix (No Value),Screens - LCD / Flat,Screens & Displays,4401.0,0,0.0,Net,weighted,0.0,True,False,,Triangle Ecycling RAL-i7071_ PO-652.pdf
+39,RAL-i7071,2025-01-31,2025,2025-01,Adapter_Laptop,Adapters - Laptop,Power & Electrical,1227.0,0,0.3,Net,weighted,368.1,False,False,,Triangle Ecycling RAL-i7071_ PO-652.pdf
+40,RAL-i7071,2025-01-31,2025,2025-01,PC_MixedTowers,PC - Mixed Towers,Computers & Laptops,663.0,0,0.45,Net,weighted,298.35,False,False,,Triangle Ecycling RAL-i7071_ PO-652.pdf
+41,RAL-i7071,2025-01-31,2025,2025-01,HDD_WithBoards,HDD - With Boards,Boards & Drives,1317.0,0,1.0,Net,weighted,1317.0,False,False,,Triangle Ecycling RAL-i7071_ PO-652.pdf
+42,RAL-i7071,2025-01-31,2025,2025-01,Strip_Power-Strip,Power Strips,Power & Electrical,198.0,0,0.35,Net,weighted,69.3,False,False,,Triangle Ecycling RAL-i7071_ PO-652.pdf
+43,RAL-i7071,2025-01-31,2025,2025-01,PC_All-In-Ones,PC - All-In-Ones,Computers & Laptops,587.0,0,0.35,Net,weighted,205.45,False,False,,Triangle Ecycling RAL-i7071_ PO-652.pdf
+44,RAL-i7071,2025-01-31,2025,2025-01,Steel,Steel,Metals,455.0,0,0.03,Net,weighted,13.65,False,False,,Triangle Ecycling RAL-i7071_ PO-652.pdf
+45,RAL-i7071,2025-01-31,2025,2025-01,AdapterLaptop,Adapters - Laptop,Power & Electrical,3.0,0,0.3,Net,weighted,0.9,False,False,,Triangle Ecycling RAL-i7071_ PO-652.pdf
+46,RAL-i7071,2025-01-31,2025,2025-01,Adapter_No Wire,Adapters - No Wire,Power & Electrical,33.0,0,0.2,Net,weighted,6.6,False,False,,Triangle Ecycling RAL-i7071_ PO-652.pdf
+47,RAL-i7071,2025-01-31,2025,2025-01,Aluminum-Breakage,Aluminum - Breakage,Metals,1448.0,0,0.2,Net,weighted,289.6,False,False,,Triangle Ecycling RAL-i7071_ PO-652.pdf
+48,RAL-i7071,2025-01-31,2025,2025-01,AV_equipment,AV Equipment,Phones & AV,970.0,0,0.11,Net,weighted,106.7,False,False,,Triangle Ecycling RAL-i7071_ PO-652.pdf
+49,RAL-i7071,2025-01-31,2025,2025-01,Batteries_Laptop,Batteries - Laptop,Batteries,233.0,0,0.6,Net,weighted,139.8,False,False,,Triangle Ecycling RAL-i7071_ PO-652.pdf
+50,RAL-i7071,2025-01-31,2025,2025-01,CableBox_Modem,Cable Box / Modem,Servers & Network,166.0,0,0.7,Net,weighted,116.2,False,False,,Triangle Ecycling RAL-i7071_ PO-652.pdf
+51,RAL-i7071,2025-01-31,2025,2025-01,Chassis_Chassis,Chassis,Metals,288.0,0,0.3,Net,weighted,86.4,False,False,,Triangle Ecycling RAL-i7071_ PO-652.pdf
+52,RAL-i7071,2025-01-31,2025,2025-01,DockingStations_DockingStation,Docking Stations,Peripherals & Accessories,193.0,0,0.25,Net,weighted,48.25,False,False,,Triangle Ecycling RAL-i7071_ PO-652.pdf
+53,RAL-i7071,2025-01-31,2025,2025-01,Industrial_ElectricMotor,Electric Motors,Industrial,39.0,0,0.22,Net,weighted,8.58,False,False,,Triangle Ecycling RAL-i7071_ PO-652.pdf
+54,RAL-i7071,2025-01-31,2025,2025-01,HDD_W/board,HDD - With Boards,Boards & Drives,3.0,0,1.0,Net,weighted,3.0,False,False,,Triangle Ecycling RAL-i7071_ PO-652.pdf
+55,RAL-i7071,2025-01-31,2025,2025-01,Keyboards_Keyboards_Mice (No Value),Keyboards / Mice,Peripherals & Accessories,519.0,0,0.0,Net,weighted,0.0,True,False,,Triangle Ecycling RAL-i7071_ PO-652.pdf
+56,RAL-i7071,2025-01-31,2025,2025-01,Laptops_mixed,Laptops - Mixed,Computers & Laptops,61.0,0,1.5,Net,weighted,91.5,False,False,,Triangle Ecycling RAL-i7071_ PO-652.pdf
+57,RAL-i7071,2025-01-31,2025,2025-01,Screen_LCD-mix (No Value),Screens - LCD / Flat,Screens & Displays,24.0,0,0.0,Net,weighted,0.0,True,False,,Triangle Ecycling RAL-i7071_ PO-652.pdf
+58,RAL-i7071,2025-01-31,2025,2025-01,MDU,MDU,Other,104.0,0,0.28,Net,weighted,29.12,False,False,,Triangle Ecycling RAL-i7071_ PO-652.pdf
+59,RAL-i7071,2025-01-31,2025,2025-01,MedicalEquipment_Medical,Medical Equipment,Other,13.0,0,0.35,Net,weighted,4.55,False,False,,Triangle Ecycling RAL-i7071_ PO-652.pdf
+60,RAL-i7071,2025-01-31,2025,2025-01,Boards_Midgrade,Boards - Midgrade,Boards & Drives,72.0,0,2.5,Net,weighted,180.0,False,False,,Triangle Ecycling RAL-i7071_ PO-652.pdf
+61,RAL-i7071,2025-01-31,2025,2025-01,Network_Network,Network,Servers & Network,137.0,0,1.0,Net,weighted,137.0,False,False,,Triangle Ecycling RAL-i7071_ PO-652.pdf
+62,RAL-i7071,2025-01-31,2025,2025-01,PC_MixedTowers,PC - Mixed Towers,Computers & Laptops,21.0,0,0.45,Net,weighted,9.45,False,False,,Triangle Ecycling RAL-i7071_ PO-652.pdf
+63,RAL-i7071,2025-01-31,2025,2025-01,Phones_OfficePhones,Phones - Office,Phones & AV,1174.0,0,0.31,Net,weighted,363.94,False,False,,Triangle Ecycling RAL-i7071_ PO-652.pdf
+64,RAL-i7071,2025-01-31,2025,2025-01,Printers (No Value),Printers,Peripherals & Accessories,2071.0,0,0.0,Net,weighted,0.0,True,False,,Triangle Ecycling RAL-i7071_ PO-652.pdf
+65,RAL-i7071,2025-01-31,2025,2025-01,PSU_Industrial,PSU - Industrial,Power & Electrical,123.0,0,0.48,Net,weighted,59.04,False,False,,Triangle Ecycling RAL-i7071_ PO-652.pdf
+66,RAL-i7071,2025-01-31,2025,2025-01,PSU SPSU,PSU - SPSU,Power & Electrical,204.0,0,0.48,Net,weighted,97.92,False,False,,Triangle Ecycling RAL-i7071_ PO-652.pdf
+67,RAL-i7071,2025-01-31,2025,2025-01,PSU_withwire,PSU - With Wire,Power & Electrical,190.0,0,0.48,Net,weighted,91.2,False,False,,Triangle Ecycling RAL-i7071_ PO-652.pdf
+68,RAL-i7071,2025-01-31,2025,2025-01,Server__Mixed,Server - Mixed,Servers & Network,43.0,0,0.7,Net,weighted,30.1,False,False,,Triangle Ecycling RAL-i7071_ PO-652.pdf
+69,RAL-i7071,2025-01-31,2025,2025-01,UPS_WithBattery,UPS - With Batteries,Power & Electrical,37.0,0,0.25,Net,weighted,9.25,False,False,,Triangle Ecycling RAL-i7071_ PO-652.pdf
+70,RAL-i7071,2025-01-31,2025,2025-01,Wire_Computer,Wire - Computer,Wire,18.0,0,0.7,Net,weighted,12.6,False,False,,Triangle Ecycling RAL-i7071_ PO-652.pdf
+71,RAL-i7071,2025-01-31,2025,2025-01,Shred_Shred,Shred,Metals,4044.0,0,0.03,Net,weighted,121.32,False,False,,Triangle Ecycling RAL-i7071_ PO-652.pdf
+72,RAL-i7150,2025-03-05,2025,2025-03,Batteries_LeadAcid-Steel,Batteries - Lead Acid,Batteries,148.0,0,0.25,Net,weighted,37.0,False,False,,Triangle Ecycling RAL-i7150_ SO-852-1.pdf
+73,RAL-i7150,2025-03-05,2025,2025-03,Server_Mix,Server - Mixed,Servers & Network,2520.0,0,0.7,Net,weighted,1764.0,False,False,,Triangle Ecycling RAL-i7150_ SO-852-1.pdf
+74,RAL-i7150,2025-03-05,2025,2025-03,Wire_Mix,Wire - Mix,Wire,977.0,0,0.7,Net,weighted,683.9,False,False,,Triangle Ecycling RAL-i7150_ SO-852-1.pdf
+75,RAL-i7150,2025-03-05,2025,2025-03,Adapter_withWire,Adapters - With Wire,Power & Electrical,1105.0,0,0.3,Net,weighted,331.5,False,False,,Triangle Ecycling RAL-i7150_ SO-852-1.pdf
+76,RAL-i7150,2025-03-05,2025,2025-03,Aluminum_Breakage,Aluminum - Breakage,Metals,670.0,0,0.2,Net,weighted,134.0,False,False,,Triangle Ecycling RAL-i7150_ SO-852-1.pdf
+77,RAL-i7150,2025-03-05,2025,2025-03,Screen_LCD-Mix,Screens - LCD / Flat,Screens & Displays,1470.0,0,0.1,Net,weighted,147.0,False,False,,Triangle Ecycling RAL-i7150_ SO-852-1.pdf
+78,RAL-i7150,2025-03-05,2025,2025-03,Screen_LCD-Mix,Screens - LCD / Flat,Screens & Displays,972.0,0,0.1,Net,weighted,97.2,False,False,,Triangle Ecycling RAL-i7150_ SO-852-1.pdf
+79,RAL-i7150,2025-03-05,2025,2025-03,PC_MixedTowers,PC - Mixed Towers,Computers & Laptops,1183.0,0,0.45,Net,weighted,532.35,False,False,,Triangle Ecycling RAL-i7150_ SO-852-1.pdf
+80,RAL-i7150,2025-03-05,2025,2025-03,UPS_NoBatteries,UPS - No Batteries,Power & Electrical,1911.0,0,0.25,Net,weighted,477.75,False,False,,Triangle Ecycling RAL-i7150_ SO-852-1.pdf
+81,RAL-i7150,2025-03-05,2025,2025-03,Laptops_Mixed,Laptops - Mixed,Computers & Laptops,870.0,0,1.4,Net,weighted,1218.0,False,False,,Triangle Ecycling RAL-i7150_ SO-852-1.pdf
+82,RAL-i7150,2025-03-05,2025,2025-03,UPS_WithBatteries,UPS - With Batteries,Power & Electrical,2300.0,0,0.25,Net,weighted,575.0,False,False,,Triangle Ecycling RAL-i7150_ SO-852-1.pdf
+83,RAL-i7150,2025-03-05,2025,2025-03,Network,Network,Servers & Network,819.0,0,1.0,Net,weighted,819.0,False,False,,Triangle Ecycling RAL-i7150_ SO-852-1.pdf
+84,RAL-i7150,2025-03-05,2025,2025-03,PC_All-In-Ones,PC - All-In-Ones,Computers & Laptops,1157.0,0,0.35,Net,weighted,404.95,False,False,,Triangle Ecycling RAL-i7150_ SO-852-1.pdf
+85,RAL-i7150,2025-03-05,2025,2025-03,AdapterLaptop,Adapters - Laptop,Power & Electrical,20.0,0,0.3,Net,weighted,6.0,False,False,,Triangle Ecycling RAL-i7150_ SO-852-1.pdf
+86,RAL-i7150,2025-03-05,2025,2025-03,Adapter_No Wire,Adapters - No Wire,Power & Electrical,34.0,0,0.2,Net,weighted,6.8,False,False,,Triangle Ecycling RAL-i7150_ SO-852-1.pdf
+87,RAL-i7150,2025-03-05,2025,2025-03,Aluminum-Breakage,Aluminum - Breakage,Metals,543.0,0,0.2,Net,weighted,108.6,False,False,,Triangle Ecycling RAL-i7150_ SO-852-1.pdf
+88,RAL-i7150,2025-03-05,2025,2025-03,AV_equipment,AV Equipment,Phones & AV,637.0,0,0.11,Net,weighted,70.07,False,False,,Triangle Ecycling RAL-i7150_ SO-852-1.pdf
+89,RAL-i7150,2025-03-05,2025,2025-03,CableBox_Modem,Cable Box / Modem,Servers & Network,97.0,0,0.7,Net,weighted,67.9,False,False,,Triangle Ecycling RAL-i7150_ SO-852-1.pdf
+90,RAL-i7150,2025-03-05,2025,2025-03,DockingStations_DockingStation,Docking Stations,Peripherals & Accessories,105.0,0,0.25,Net,weighted,26.25,False,False,,Triangle Ecycling RAL-i7150_ SO-852-1.pdf
+91,RAL-i7150,2025-03-05,2025,2025-03,Industrial_ElectricMotor,Electric Motors,Industrial,37.0,0,0.22,Net,weighted,8.14,False,False,,Triangle Ecycling RAL-i7150_ SO-852-1.pdf
+92,RAL-i7150,2025-03-05,2025,2025-03,Screen_Flatscreen (No Value),Screens - LCD / Flat,Screens & Displays,198.0,0,0.0,Net,weighted,0.0,True,False,,Triangle Ecycling RAL-i7150_ SO-852-1.pdf
+93,RAL-i7150,2025-03-05,2025,2025-03,HDD_w/ Board,HDD - With Boards,Boards & Drives,7.0,0,1.0,Net,weighted,7.0,False,False,,Triangle Ecycling RAL-i7150_ SO-852-1.pdf
+94,RAL-i7150,2025-03-05,2025,2025-03,Keyboards_Keyboards_Mice (No Value),Keyboards / Mice,Peripherals & Accessories,550.0,0,0.0,Net,weighted,0.0,True,False,,Triangle Ecycling RAL-i7150_ SO-852-1.pdf
+95,RAL-i7150,2025-03-05,2025,2025-03,LCDs - With Stands (No Value),Screens - LCD / Flat,Screens & Displays,833.0,0,0.0,Net,weighted,0.0,True,False,,Triangle Ecycling RAL-i7150_ SO-852-1.pdf
+96,RAL-i7150,2025-03-05,2025,2025-03,MDU,MDU,Other,58.0,0,0.28,Net,weighted,16.24,False,False,,Triangle Ecycling RAL-i7150_ SO-852-1.pdf
+97,RAL-i7150,2025-03-05,2025,2025-03,Boards_Midgrade,Boards - Midgrade,Boards & Drives,22.0,0,2.5,Net,weighted,55.0,False,False,,Triangle Ecycling RAL-i7150_ SO-852-1.pdf
+98,RAL-i7150,2025-03-05,2025,2025-03,Network_Network,Network,Servers & Network,20.0,0,1.0,Net,weighted,20.0,False,False,,Triangle Ecycling RAL-i7150_ SO-852-1.pdf
+99,RAL-i7150,2025-03-05,2025,2025-03,PC_MixedTowers,PC - Mixed Towers,Computers & Laptops,11.0,0,0.45,Net,weighted,4.95,False,False,,Triangle Ecycling RAL-i7150_ SO-852-1.pdf
+100,RAL-i7150,2025-03-05,2025,2025-03,Phones_OfficePhones,Phones - Office,Phones & AV,383.0,0,0.31,Net,weighted,118.73,False,False,,Triangle Ecycling RAL-i7150_ SO-852-1.pdf
+101,RAL-i7150,2025-03-05,2025,2025-03,Printers_Printers (No Value),Printers,Peripherals & Accessories,3132.0,0,0.0,Net,weighted,0.0,True,False,,Triangle Ecycling RAL-i7150_ SO-852-1.pdf
+102,RAL-i7150,2025-03-05,2025,2025-03,PSU Industrial,PSU - Industrial,Power & Electrical,19.0,0,0.48,Net,weighted,9.12,False,False,,Triangle Ecycling RAL-i7150_ SO-852-1.pdf
+103,RAL-i7150,2025-03-05,2025,2025-03,PSU_withwire,PSU - With Wire,Power & Electrical,10.0,0,0.48,Net,weighted,4.8,False,False,,Triangle Ecycling RAL-i7150_ SO-852-1.pdf
+104,RAL-i7150,2025-03-05,2025,2025-03,Scanners__scanner/cardreader,Printers,Peripherals & Accessories,9.0,0,0.6,Net,weighted,5.4,False,False,,Triangle Ecycling RAL-i7150_ SO-852-1.pdf
+105,RAL-i7150,2025-03-05,2025,2025-03,Server__Mixed,Server - Mixed,Servers & Network,23.0,0,0.7,Net,weighted,16.1,False,False,,Triangle Ecycling RAL-i7150_ SO-852-1.pdf
+106,RAL-i7150,2025-03-05,2025,2025-03,Breakers_Switch-Breakers,Switches / Breakers,Power & Electrical,66.0,0,0.35,Net,weighted,23.1,False,False,,Triangle Ecycling RAL-i7150_ SO-852-1.pdf
+107,RAL-i7150,2025-03-05,2025,2025-03,Wire_Computer,Wire - Computer,Wire,11.0,0,0.7,Net,weighted,7.7,False,False,,Triangle Ecycling RAL-i7150_ SO-852-1.pdf
+108,RAL-i7150,2025-03-05,2025,2025-03,Shred_Shred,Shred,Metals,1160.0,0,0.03,Net,weighted,34.8,False,False,,Triangle Ecycling RAL-i7150_ SO-852-1.pdf
+109,RAL-i7201,2025-03-13,2025,2025-03,Freight - Trucking,Freight - Trucking,Fees / Adjustments,,0,,Flat,freight,-300.0,False,False,,Triangle Ecycling RAL-i7201_ SO-1025-1.pdf
+110,RAL-i7201,2025-03-13,2025,2025-03,Server_Mix,Server - Mixed,Servers & Network,3458.0,0,0.7,Net,weighted,2420.6,False,False,,Triangle Ecycling RAL-i7201_ SO-1025-1.pdf
+111,RAL-i7201,2025-03-13,2025,2025-03,Printers (No Value),Printers,Peripherals & Accessories,547.0,0,0.0,Net,weighted,0.0,True,False,,Triangle Ecycling RAL-i7201_ SO-1025-1.pdf
+112,RAL-i7201,2025-03-13,2025,2025-03,FocusMaterial_CRT,CRT,Screens & Displays,717.0,0,-1.0,Net,weighted,-717.0,False,False,negative price (cost to Triangle),Triangle Ecycling RAL-i7201_ SO-1025-1.pdf
+113,RAL-i7201,2025-03-13,2025,2025-03,Wire_Mix,Wire - Mix,Wire,1104.0,0,0.7,Net,weighted,772.8,False,False,,Triangle Ecycling RAL-i7201_ SO-1025-1.pdf
+114,RAL-i7201,2025-03-13,2025,2025-03,Screen_LCD-Mix (No Value),Screens - LCD / Flat,Screens & Displays,3255.0,0,0.1,Net,weighted,325.5,True,False,labeled No Value but priced >0,Triangle Ecycling RAL-i7201_ SO-1025-1.pdf
+115,RAL-i7201,2025-03-13,2025,2025-03,PC_MixedTowers,PC - Mixed Towers,Computers & Laptops,2529.0,0,0.45,Net,weighted,1138.05,False,False,,Triangle Ecycling RAL-i7201_ SO-1025-1.pdf
+116,RAL-i7201,2025-03-13,2025,2025-03,HDD_WithBoards,HDD - With Boards,Boards & Drives,1540.0,0,1.15,Net,weighted,1771.0,False,False,,Triangle Ecycling RAL-i7201_ SO-1025-1.pdf
+117,RAL-i7201,2025-03-13,2025,2025-03,UPS_WithBatteries,UPS - With Batteries,Power & Electrical,2090.0,0,0.25,Net,weighted,522.5,False,False,,Triangle Ecycling RAL-i7201_ SO-1025-1.pdf
+118,RAL-i7201,2025-03-13,2025,2025-03,Network,Network,Servers & Network,978.0,0,1.0,Net,weighted,978.0,False,False,,Triangle Ecycling RAL-i7201_ SO-1025-1.pdf
+119,RAL-i7201,2025-03-13,2025,2025-03,Toner (No Value),Toner,Peripherals & Accessories,492.0,0,0.0,Net,weighted,0.0,True,False,,Triangle Ecycling RAL-i7201_ SO-1025-1.pdf
+120,RAL-i7201,2025-03-13,2025,2025-03,Steel,Steel,Metals,691.0,0,0.03,Net,weighted,20.73,False,False,,Triangle Ecycling RAL-i7201_ SO-1025-1.pdf
+121,RAL-i7321,2025-04-17,2025,2025-04,Freight - Trucking,Freight - Trucking,Fees / Adjustments,,0,,Flat,freight,-300.0,False,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+122,RAL-i7321,2025-04-17,2025,2025-04,AdapterLaptop,Adapters - Laptop,Power & Electrical,3.0,0,0.3,Net,weighted,0.9,False,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+123,RAL-i7321,2025-04-17,2025,2025-04,Adapter_No Wire,Adapters - No Wire,Power & Electrical,56.0,0,0.2,Net,weighted,11.2,False,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+124,RAL-i7321,2025-04-17,2025,2025-04,Adapter_WithWire,Adapters - With Wire,Power & Electrical,45.0,0,0.25,Net,weighted,11.25,False,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+125,RAL-i7321,2025-04-17,2025,2025-04,Aluminum-Breakage,Aluminum - Breakage,Metals,532.0,0,0.2,Net,weighted,106.4,False,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+126,RAL-i7321,2025-04-17,2025,2025-04,Aluminum_Module,Aluminum - Module,Metals,28.0,0,0.5,Net,weighted,14.0,False,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+127,RAL-i7321,2025-04-17,2025,2025-04,AV_equipment,AV Equipment,Phones & AV,874.0,0,0.11,Net,weighted,96.14,False,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+128,RAL-i7321,2025-04-17,2025,2025-04,DockingStations_DockingStation,Docking Stations,Peripherals & Accessories,262.0,0,0.25,Net,weighted,65.5,False,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+129,RAL-i7321,2025-04-17,2025,2025-04,Electric Motors,Electric Motors,Industrial,31.0,0,0.22,Net,weighted,6.82,False,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+130,RAL-i7321,2025-04-17,2025,2025-04,Keyboards/Mice (No Value),Keyboards / Mice,Peripherals & Accessories,843.0,0,0.0,Net,weighted,0.0,True,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+131,RAL-i7321,2025-04-17,2025,2025-04,LCDs w/ Stands (No Value),Screens - LCD / Flat,Screens & Displays,38.0,0,0.0,Net,weighted,0.0,True,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+132,RAL-i7321,2025-04-17,2025,2025-04,MDU,MDU,Other,45.0,0,0.28,Net,weighted,12.6,False,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+133,RAL-i7321,2025-04-17,2025,2025-04,Mixed Medical Equipment,Medical Equipment,Other,28.0,0,0.35,Net,weighted,9.8,False,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+134,RAL-i7321,2025-04-17,2025,2025-04,Boards_Midgrade,Boards - Midgrade,Boards & Drives,21.0,0,2.5,Net,weighted,52.5,False,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+135,RAL-i7321,2025-04-17,2025,2025-04,Network_Network,Network,Servers & Network,74.0,0,1.0,Net,weighted,74.0,False,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+136,RAL-i7321,2025-04-17,2025,2025-04,PC_MixedTowers,PC - Mixed Towers,Computers & Laptops,851.0,0,0.5,Net,weighted,425.5,False,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+137,RAL-i7321,2025-04-17,2025,2025-04,Phones_OfficePhones,Phones - Office,Phones & AV,1242.0,0,0.31,Net,weighted,385.02,False,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+138,RAL-i7321,2025-04-17,2025,2025-04,PSU_Industrial,PSU - Industrial,Power & Electrical,230.0,0,0.48,Net,weighted,110.4,False,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+139,RAL-i7321,2025-04-17,2025,2025-04,Scanners__scanner/cardreader,Printers,Peripherals & Accessories,66.0,0,0.6,Net,weighted,39.6,False,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+140,RAL-i7321,2025-04-17,2025,2025-04,Breakers_Switch-Breakers,Switches / Breakers,Power & Electrical,53.0,0,0.35,Net,weighted,18.55,False,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+141,RAL-i7321,2025-04-17,2025,2025-04,UPS_WithBattery,UPS - With Batteries,Power & Electrical,133.0,0,0.25,Net,weighted,33.25,False,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+142,RAL-i7321,2025-04-17,2025,2025-04,Wire_Computer,Wire - Computer,Wire,144.0,0,0.7,Net,weighted,100.8,False,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+143,RAL-i7321,2025-04-17,2025,2025-04,PSU_withwire,PSU - With Wire,Power & Electrical,4.0,0,0.48,Net,weighted,1.92,False,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+144,RAL-i7321,2025-04-17,2025,2025-04,PSU_SPSU,PSU - SPSU,Power & Electrical,20.0,0,0.48,Net,weighted,9.6,False,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+145,RAL-i7321,2025-04-17,2025,2025-04,CableBox_Modem,Cable Box / Modem,Servers & Network,232.0,0,0.55,Net,weighted,127.6,False,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+146,RAL-i7321,2025-04-17,2025,2025-04,Shred_Shred,Shred,Metals,4131.0,0,0.03,Net,weighted,123.93,False,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+147,RAL-i7321,2025-04-17,2025,2025-04,Batteries_Laptop,Batteries - Laptop,Batteries,396.0,0,0.6,Net,weighted,237.6,False,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+148,RAL-i7321,2025-04-17,2025,2025-04,Batteries_Alkaline,Batteries - Alkaline / Primary,Batteries,46.0,0,0.25,Net,weighted,11.5,False,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+149,RAL-i7321,2025-04-17,2025,2025-04,Batteries_Li-Ion,Batteries - Li-Ion / Polymer,Batteries,22.0,0,0.3,Net,weighted,6.6,False,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+150,RAL-i7321,2025-04-17,2025,2025-04,Batteries_Ni-Cd,Batteries - NiCd / NiMH,Batteries,6.0,0,-0.45,Net,weighted,-2.7,False,False,negative price (cost to Triangle),Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+151,RAL-i7321,2025-04-17,2025,2025-04,Batteries_Ni-Mh,Batteries - NiCd / NiMH,Batteries,19.0,0,0.55,Net,weighted,10.45,False,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+152,RAL-i7321,2025-04-17,2025,2025-04,Batteries Li Polymer,Batteries - Li-Ion / Polymer,Batteries,17.0,0,0.6,Net,weighted,10.2,False,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+153,RAL-i7321,2025-04-17,2025,2025-04,Batteries_Consumer Primary,Batteries - Alkaline / Primary,Batteries,5.0,0,-2.35,Net,weighted,-11.75,False,False,negative price (cost to Triangle),Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+154,RAL-i7321,2025-04-17,2025,2025-04,Batteries_Cellphone,Batteries - Cellphone,Batteries,4.0,0,0.6,Net,weighted,2.4,False,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+155,RAL-i7321,2025-04-17,2025,2025-04,Batteries_Li-Ion_Tool,Batteries - Li-Ion (Tool),Batteries,4.0,0,0.3,Net,weighted,1.2,False,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+156,RAL-i7321,2025-04-17,2025,2025-04,Capacitors (No Value),Capacitors,Industrial,4.0,0,0.0,Net,weighted,0.0,True,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+157,RAL-i7321,2025-04-17,2025,2025-04,Printers (No Value),Printers,Peripherals & Accessories,1053.0,0,0.0,Net,weighted,0.0,True,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+158,RAL-i7321,2025-04-17,2025,2025-04,Wire_Mix,Wire - Mix,Wire,1407.0,0,0.7,Net,weighted,984.9,False,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+159,RAL-i7321,2025-04-17,2025,2025-04,LCDs w/ Stands (No Value),Screens - LCD / Flat,Screens & Displays,4363.0,0,0.0,Net,weighted,0.0,True,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+160,RAL-i7321,2025-04-17,2025,2025-04,PC_MixedTowers,PC - Mixed Towers,Computers & Laptops,952.0,0,0.5,Net,weighted,476.0,False,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+161,RAL-i7321,2025-04-17,2025,2025-04,Phones_Cell-Mix,Phones - Cell Mix,Phones & AV,220.0,0,4.25,Net,weighted,935.0,False,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+162,RAL-i7321,2025-04-17,2025,2025-04,UPS_WithBatteries,UPS - With Batteries,Power & Electrical,1835.0,0,0.25,Net,weighted,458.75,False,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+163,RAL-i7321,2025-04-17,2025,2025-04,PC_All-In-Ones,PC - All-In-Ones,Computers & Laptops,717.0,0,0.45,Net,weighted,322.65,False,False,,Triangle Ecycling RAL-i7321_ SO-2061-1.pdf
+164,RAL-i7394,2025-05-13,2025,2025-05,Freight - Trucking,Freight - Trucking,Fees / Adjustments,,0,,Flat,freight,-300.0,False,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+165,RAL-i7394,2025-05-13,2025,2025-05,Server_Mix,Server - Mixed,Servers & Network,1071.0,0,0.7,Net,weighted,749.7,False,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+166,RAL-i7394,2025-05-13,2025,2025-05,Wire_Mix,Wire - Mix,Wire,1199.0,0,0.7,Net,weighted,839.3,False,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+167,RAL-i7394,2025-05-13,2025,2025-05,Adapter_withWire,Adapters - With Wire,Power & Electrical,1774.0,0,0.3,Net,weighted,532.2,False,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+168,RAL-i7394,2025-05-13,2025,2025-05,Boards_PS-LG,Boards - Midgrade,Boards & Drives,181.0,0,0.7,Net,weighted,126.7,False,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+169,RAL-i7394,2025-05-13,2025,2025-05,Screen_LCD-Mix,Screens - LCD / Flat,Screens & Displays,1290.0,0,0.1,Net,weighted,129.0,False,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+170,RAL-i7394,2025-05-13,2025,2025-05,Aluminum_Breakage,Aluminum - Breakage,Metals,1442.0,0,0.2,Net,weighted,288.4,False,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+171,RAL-i7394,2025-05-13,2025,2025-05,PC_MixedTowers,PC - Mixed Towers,Computers & Laptops,2089.0,0,0.5,Net,weighted,1044.5,False,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+172,RAL-i7394,2025-05-13,2025,2025-05,UPS_WithBatteries,UPS - With Batteries,Power & Electrical,1802.0,0,0.25,Net,weighted,450.5,False,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+173,RAL-i7394,2025-05-13,2025,2025-05,Network,Network,Servers & Network,2347.0,0,1.0,Net,weighted,2347.0,False,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+174,RAL-i7394,2025-05-13,2025,2025-05,PC_All-In-Ones,PC - All-In-Ones,Computers & Laptops,668.0,0,0.45,Net,weighted,300.6,False,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+175,RAL-i7394,2025-05-13,2025,2025-05,Toner (No Value),Toner,Peripherals & Accessories,290.0,0,0.0,Net,weighted,0.0,True,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+176,RAL-i7394,2025-05-13,2025,2025-05,Steel,Steel,Metals,850.0,0,0.03,Net,weighted,25.5,False,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+177,RAL-i7394,2025-05-13,2025,2025-05,AdapterLaptop,Adapters - Laptop,Power & Electrical,32.0,0,0.3,Net,weighted,9.6,False,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+178,RAL-i7394,2025-05-13,2025,2025-05,Adapter_No Wire,Adapters - No Wire,Power & Electrical,56.0,0,0.2,Net,weighted,11.2,False,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+179,RAL-i7394,2025-05-13,2025,2025-05,Adapter_WithWire,Adapters - With Wire,Power & Electrical,3.0,0,0.25,Net,weighted,0.75,False,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+180,RAL-i7394,2025-05-13,2025,2025-05,Aluminum-Breakage,Aluminum - Breakage,Metals,91.0,0,0.2,Net,weighted,18.2,False,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+181,RAL-i7394,2025-05-13,2025,2025-05,AV_equipment,AV Equipment,Phones & AV,568.0,0,0.11,Net,weighted,62.48,False,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+182,RAL-i7394,2025-05-13,2025,2025-05,CableBox_Modem,Cable Box / Modem,Servers & Network,52.0,0,0.55,Net,weighted,28.6,False,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+183,RAL-i7394,2025-05-13,2025,2025-05,Consumer Goods (No Value),Consumer Goods,Other,780.0,0,0.0,Net,weighted,0.0,True,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+184,RAL-i7394,2025-05-13,2025,2025-05,DockingStations_DockingStation,Docking Stations,Peripherals & Accessories,149.0,0,0.25,Net,weighted,37.25,False,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+185,RAL-i7394,2025-05-13,2025,2025-05,Industrial_ElectricMotor,Electric Motors,Industrial,72.0,0,0.25,Net,weighted,18.0,False,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+186,RAL-i7394,2025-05-13,2025,2025-05,HDD_w/ Board,HDD - With Boards,Boards & Drives,8.0,0,1.35,Net,weighted,10.8,False,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+187,RAL-i7394,2025-05-13,2025,2025-05,Keyboards/Mice (No Value),Keyboards / Mice,Peripherals & Accessories,732.0,0,0.0,Net,weighted,0.0,True,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+188,RAL-i7394,2025-05-13,2025,2025-05,Laptops_Mixed,Laptops - Mixed,Computers & Laptops,51.0,0,1.4,Net,weighted,71.4,False,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+189,RAL-i7394,2025-05-13,2025,2025-05,Screen_Lcd-mix,Screens - LCD / Flat,Screens & Displays,730.0,0,0.1,Net,weighted,73.0,False,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+190,RAL-i7394,2025-05-13,2025,2025-05,MDU,MDU,Other,11.0,0,0.28,Net,weighted,3.08,False,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+191,RAL-i7394,2025-05-13,2025,2025-05,MedicalEquipment_Medical,Medical Equipment,Other,19.0,0,0.35,Net,weighted,6.65,False,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+192,RAL-i7394,2025-05-13,2025,2025-05,Boards_Midgrade,Boards - Midgrade,Boards & Drives,6.0,0,2.5,Net,weighted,15.0,False,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+193,RAL-i7394,2025-05-13,2025,2025-05,Network_Network,Network,Servers & Network,133.0,0,1.0,Net,weighted,133.0,False,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+194,RAL-i7394,2025-05-13,2025,2025-05,PC_MixedTowers,PC - Mixed Towers,Computers & Laptops,164.0,0,0.5,Net,weighted,82.0,False,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+195,RAL-i7394,2025-05-13,2025,2025-05,Phones OfficePhones,Phones - Office,Phones & AV,1262.0,0,0.31,Net,weighted,391.22,False,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+196,RAL-i7394,2025-05-13,2025,2025-05,PSU_Industrial,PSU - Industrial,Power & Electrical,67.0,0,0.48,Net,weighted,32.16,False,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+197,RAL-i7394,2025-05-13,2025,2025-05,PSU_SPSU,PSU - SPSU,Power & Electrical,9.0,0,0.48,Net,weighted,4.32,False,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+198,RAL-i7394,2025-05-13,2025,2025-05,PSU_withwire,PSU - With Wire,Power & Electrical,14.0,0,0.48,Net,weighted,6.72,False,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+199,RAL-i7394,2025-05-13,2025,2025-05,Scanners__scanner/cardreader,Printers,Peripherals & Accessories,7.0,0,0.6,Net,weighted,4.2,False,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+200,RAL-i7394,2025-05-13,2025,2025-05,Server__Mixed,Server - Mixed,Servers & Network,44.0,0,0.7,Net,weighted,30.8,False,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+201,RAL-i7394,2025-05-13,2025,2025-05,Breakers_Switch-Breakers,Switches / Breakers,Power & Electrical,11.0,0,0.35,Net,weighted,3.85,False,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+202,RAL-i7394,2025-05-13,2025,2025-05,UPS_WithBattery,UPS - With Batteries,Power & Electrical,35.0,0,0.25,Net,weighted,8.75,False,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+203,RAL-i7394,2025-05-13,2025,2025-05,Wire_Computer,Wire - Computer,Wire,195.0,0,0.7,Net,weighted,136.5,False,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+204,RAL-i7394,2025-05-13,2025,2025-05,Shred_Shred,Shred,Metals,2927.0,0,0.03,Net,weighted,87.81,False,False,,Triangle Ecycling RAL-i7394_ SO-2452-1.pdf
+205,RAL-i7424,2025-05-16,2025,2025-05,Freight - Trucking,Freight - Trucking,Fees / Adjustments,,0,,Flat,freight,-300.0,False,False,,Triangle Ecycling RAL-i7424_ SO-2451-1.pdf
+206,RAL-i7424,2025-05-16,2025,2025-05,Server_Mix,Server - Mixed,Servers & Network,2242.0,0,0.7,Net,weighted,1569.4,False,False,,Triangle Ecycling RAL-i7424_ SO-2451-1.pdf
+207,RAL-i7424,2025-05-16,2025,2025-05,Printers (No Value),Printers,Peripherals & Accessories,1167.0,2,0.0,Net,weighted,0.0,True,False,,Triangle Ecycling RAL-i7424_ SO-2451-1.pdf
+208,RAL-i7424,2025-05-16,2025,2025-05,Aluminum_Breakage,Aluminum - Breakage,Metals,2240.0,0,0.3,Net,weighted,672.0,False,False,,Triangle Ecycling RAL-i7424_ SO-2451-1.pdf
+209,RAL-i7424,2025-05-16,2025,2025-05,Screen_LCD-Mix,Screens - LCD / Flat,Screens & Displays,4362.0,0,0.1,Net,weighted,436.2,False,False,,Triangle Ecycling RAL-i7424_ SO-2451-1.pdf
+210,RAL-i7424,2025-05-16,2025,2025-05,PC_MixedTowers,PC - Mixed Towers,Computers & Laptops,926.0,0,0.45,Net,weighted,416.7,False,False,,Triangle Ecycling RAL-i7424_ SO-2451-1.pdf
+211,RAL-i7424,2025-05-16,2025,2025-05,Laptops_Mixed,Laptops - Mixed,Computers & Laptops,2235.0,0,1.5,Net,weighted,3352.5,False,False,,Triangle Ecycling RAL-i7424_ SO-2451-1.pdf
+212,RAL-i7424,2025-05-16,2025,2025-05,HDD_WithBoards,HDD - With Boards,Boards & Drives,1458.0,0,1.15,Net,weighted,1676.7,False,False,,Triangle Ecycling RAL-i7424_ SO-2451-1.pdf
+213,RAL-i7424,2025-05-16,2025,2025-05,Network,Network,Servers & Network,1452.0,0,1.0,Net,weighted,1452.0,False,False,,Triangle Ecycling RAL-i7424_ SO-2451-1.pdf
+214,RAL-i7424,2025-05-16,2025,2025-05,Steel,Steel,Metals,232.0,0,0.03,Net,weighted,6.96,False,False,,Triangle Ecycling RAL-i7424_ SO-2451-1.pdf
+215,RAL-i7424,2025-05-16,2025,2025-05,Aluminum-Breakage,Aluminum - Breakage,Metals,112.0,0,0.2,Net,weighted,22.4,False,False,,Triangle Ecycling RAL-i7424_ SO-2451-1.pdf
+216,RAL-i7424,2025-05-16,2025,2025-05,AV_equipment,AV Equipment,Phones & AV,421.0,0,0.11,Net,weighted,46.31,False,False,,Triangle Ecycling RAL-i7424_ SO-2451-1.pdf
+217,RAL-i7424,2025-05-16,2025,2025-05,CableBox_Modem,Cable Box / Modem,Servers & Network,94.0,0,0.55,Net,weighted,51.7,False,False,,Triangle Ecycling RAL-i7424_ SO-2451-1.pdf
+218,RAL-i7424,2025-05-16,2025,2025-05,Chassis_Chassis,Chassis,Metals,53.0,0,0.3,Net,weighted,15.9,False,False,,Triangle Ecycling RAL-i7424_ SO-2451-1.pdf
+219,RAL-i7424,2025-05-16,2025,2025-05,DockingStations_DockingStation,Docking Stations,Peripherals & Accessories,75.0,0,0.25,Net,weighted,18.75,False,False,,Triangle Ecycling RAL-i7424_ SO-2451-1.pdf
+220,RAL-i7424,2025-05-16,2025,2025-05,Keyboards/Mice (No Value),Keyboards / Mice,Peripherals & Accessories,242.0,0,0.0,Net,weighted,0.0,True,False,,Triangle Ecycling RAL-i7424_ SO-2451-1.pdf
+221,RAL-i7424,2025-05-16,2025,2025-05,Laptops_Mixed,Laptops - Mixed,Computers & Laptops,69.0,0,1.4,Net,weighted,96.6,False,False,,Triangle Ecycling RAL-i7424_ SO-2451-1.pdf
+222,RAL-i7424,2025-05-16,2025,2025-05,MDU,MDU,Other,19.0,0,0.28,Net,weighted,5.32,False,False,,Triangle Ecycling RAL-i7424_ SO-2451-1.pdf
+223,RAL-i7424,2025-05-16,2025,2025-05,Boards_Midgrade,Boards - Midgrade,Boards & Drives,12.0,0,2.5,Net,weighted,30.0,False,False,,Triangle Ecycling RAL-i7424_ SO-2451-1.pdf
+224,RAL-i7424,2025-05-16,2025,2025-05,Batteries_mixed,Batteries - Mixed,Batteries,266.0,0,0.15,Net,weighted,39.9,False,False,,Triangle Ecycling RAL-i7424_ SO-2451-1.pdf
+225,RAL-i7424,2025-05-16,2025,2025-05,Network_Network,Network,Servers & Network,39.0,0,1.0,Net,weighted,39.0,False,False,,Triangle Ecycling RAL-i7424_ SO-2451-1.pdf
+226,RAL-i7424,2025-05-16,2025,2025-05,PC_MixedTowers,PC - Mixed Towers,Computers & Laptops,19.0,0,0.5,Net,weighted,9.5,False,False,,Triangle Ecycling RAL-i7424_ SO-2451-1.pdf
+227,RAL-i7424,2025-05-16,2025,2025-05,Phones_OfficePhones,Phones - Office,Phones & AV,280.0,0,0.31,Net,weighted,86.8,False,False,,Triangle Ecycling RAL-i7424_ SO-2451-1.pdf
+228,RAL-i7424,2025-05-16,2025,2025-05,PSU_SPSU,PSU - SPSU,Power & Electrical,98.0,0,0.48,Net,weighted,47.04,False,False,,Triangle Ecycling RAL-i7424_ SO-2451-1.pdf
+229,RAL-i7424,2025-05-16,2025,2025-05,PSU_withwire,PSU - With Wire,Power & Electrical,221.0,0,0.48,Net,weighted,106.08,False,False,,Triangle Ecycling RAL-i7424_ SO-2451-1.pdf
+230,RAL-i7424,2025-05-16,2025,2025-05,Breakers_Switch-Breakers,Switches / Breakers,Power & Electrical,28.0,0,0.35,Net,weighted,9.8,False,False,,Triangle Ecycling RAL-i7424_ SO-2451-1.pdf
+231,RAL-i7424,2025-05-16,2025,2025-05,Wire_Computer,Wire - Computer,Wire,8.0,0,0.7,Net,weighted,5.6,False,False,,Triangle Ecycling RAL-i7424_ SO-2451-1.pdf
+232,RAL-i7424,2025-05-16,2025,2025-05,Shred_Shred,Shred,Metals,1450.0,0,0.03,Net,weighted,43.5,False,False,,Triangle Ecycling RAL-i7424_ SO-2451-1.pdf
+233,RAL-i7554,2025-06-26,2025,2025-06,Freight - Trucking,Freight - Trucking,Fees / Adjustments,,0,,Flat,freight,-300.0,False,False,,Triangle Ecycling RAL-i7554_ SO-3306-1.pdf
+234,RAL-i7554,2025-06-26,2025,2025-06,Server_Mix,Server - Mixed,Servers & Network,1847.0,0,0.8,Net,weighted,1477.6,False,False,,Triangle Ecycling RAL-i7554_ SO-3306-1.pdf
+235,RAL-i7554,2025-06-26,2025,2025-06,Printers (No Value),Printers,Peripherals & Accessories,511.0,0,0.0,Net,weighted,0.0,True,False,,Triangle Ecycling RAL-i7554_ SO-3306-1.pdf
+236,RAL-i7554,2025-06-26,2025,2025-06,FocusMaterial_CRT,CRT,Screens & Displays,450.0,0,-1.0,Net,weighted,-450.0,False,False,negative price (cost to Triangle),Triangle Ecycling RAL-i7554_ SO-3306-1.pdf
+237,RAL-i7554,2025-06-26,2025,2025-06,Batteries_LFP,Batteries - LFP,Batteries,226.0,0,-0.2,Net,weighted,-45.2,False,False,negative price (cost to Triangle),Triangle Ecycling RAL-i7554_ SO-3306-1.pdf
+238,RAL-i7554,2025-06-26,2025,2025-06,Screen_LCD-Mix,Screens - LCD / Flat,Screens & Displays,2011.0,0,0.1,Net,weighted,201.1,False,False,,Triangle Ecycling RAL-i7554_ SO-3306-1.pdf
+239,RAL-i7554,2025-06-26,2025,2025-06,PC_Incomplete,PC - Incomplete,Computers & Laptops,2003.0,0,0.5,Net,weighted,1001.5,False,False,,Triangle Ecycling RAL-i7554_ SO-3306-1.pdf
+240,RAL-i7554,2025-06-26,2025,2025-06,Kiosk,Kiosk,Computers & Laptops,89.0,0,0.5,Net,weighted,44.5,False,False,,Triangle Ecycling RAL-i7554_ SO-3306-1.pdf
+241,RAL-i7554,2025-06-26,2025,2025-06,Laptops_Mixed,Laptops - Mixed,Computers & Laptops,846.0,0,1.5,Net,weighted,1269.0,False,False,,Triangle Ecycling RAL-i7554_ SO-3306-1.pdf
+242,RAL-i7554,2025-06-26,2025,2025-06,UPS_WithBatteries,UPS - With Batteries,Power & Electrical,3829.0,0,0.25,Net,weighted,957.25,False,False,,Triangle Ecycling RAL-i7554_ SO-3306-1.pdf
+243,RAL-i7554,2025-06-26,2025,2025-06,Network,Network,Servers & Network,1272.0,0,1.15,Net,weighted,1462.8,False,False,,Triangle Ecycling RAL-i7554_ SO-3306-1.pdf
+244,RAL-i7554,2025-06-26,2025,2025-06,PC_All-In-Ones,PC - All-In-Ones,Computers & Laptops,731.0,0,0.45,Net,weighted,328.95,False,False,,Triangle Ecycling RAL-i7554_ SO-3306-1.pdf
+245,RAL-i7554,2025-06-26,2025,2025-06,Steel,Steel,Metals,90.0,0,0.03,Net,weighted,2.7,False,False,,Triangle Ecycling RAL-i7554_ SO-3306-1.pdf
+246,RAL-i7630,2025-08-04,2025,2025-08,Freight - Trucking,Freight - Trucking,Fees / Adjustments,,0,,Flat,freight,-300.0,False,False,,Triangle Ecycling RAL-i7630_ SO-4332-1.pdf
+247,RAL-i7630,2025-08-04,2025,2025-08,Compressor-Scrap,Compressors,Industrial,1067.0,0,0.03,Net,weighted,32.01,False,False,,Triangle Ecycling RAL-i7630_ SO-4332-1.pdf
+248,RAL-i7630,2025-08-04,2025,2025-08,Screen_FlatscreenTV,Screens - LCD / Flat,Screens & Displays,162.0,0,0.1,Net,weighted,16.2,False,False,,Triangle Ecycling RAL-i7630_ SO-4332-1.pdf
+249,RAL-i7630,2025-08-04,2025,2025-08,Printers,Printers,Peripherals & Accessories,832.0,0,0.0,Net,weighted,0.0,False,False,,Triangle Ecycling RAL-i7630_ SO-4332-1.pdf
+250,RAL-i7630,2025-08-04,2025,2025-08,HDD_Shredded-WithBoards,HDD - With Boards,Boards & Drives,1276.0,0,0.45,Net,weighted,574.2,False,False,,Triangle Ecycling RAL-i7630_ SO-4332-1.pdf
+251,RAL-i7630,2025-08-04,2025,2025-08,Wire_Mix,Wire - Mix,Wire,1954.0,0,0.7,Net,weighted,1367.8,False,False,,Triangle Ecycling RAL-i7630_ SO-4332-1.pdf
+252,RAL-i7630,2025-08-04,2025,2025-08,ES-Mix,ES Mix (aggregate),Mixed / Aggregate,5589.0,0,0.19,Net,weighted,1061.91,False,False,,Triangle Ecycling RAL-i7630_ SO-4332-1.pdf
+253,RAL-i7630,2025-08-04,2025,2025-08,Screen_LCD-Mix,Screens - LCD / Flat,Screens & Displays,3108.0,0,0.1,Net,weighted,310.8,False,False,,Triangle Ecycling RAL-i7630_ SO-4332-1.pdf
+254,RAL-i7630,2025-08-04,2025,2025-08,PC_Incomplete,PC - Incomplete,Computers & Laptops,1063.0,0,0.5,Net,weighted,531.5,False,False,,Triangle Ecycling RAL-i7630_ SO-4332-1.pdf
+255,RAL-i7630,2025-08-04,2025,2025-08,Adapter With wire,Adapters - With Wire,Power & Electrical,1182.0,0,0.3,Net,weighted,354.6,False,False,,Triangle Ecycling RAL-i7630_ SO-4332-1.pdf
+256,RAL-i7630,2025-08-04,2025,2025-08,Laptops_Mixed,Laptops - Mixed,Computers & Laptops,1000.0,0,1.5,Net,weighted,1500.0,False,False,,Triangle Ecycling RAL-i7630_ SO-4332-1.pdf
+257,RAL-i7630,2025-08-04,2025,2025-08,HDD_WithBoards,HDD - With Boards,Boards & Drives,1355.0,0,1.2,Net,weighted,1626.0,False,False,,Triangle Ecycling RAL-i7630_ SO-4332-1.pdf
+258,RAL-i7630,2025-08-04,2025,2025-08,Steel,Steel,Metals,2182.0,0,0.03,Net,weighted,65.46,False,False,,Triangle Ecycling RAL-i7630_ SO-4332-1.pdf
+259,RAL-i7691,2025-08-08,2025,2025-08,Freight - Trucking,Freight - Trucking,Fees / Adjustments,,0,,Flat,freight,-300.0,False,False,,Triangle Ecycling RAL-i7691_ SO-4333-1.pdf
+260,RAL-i7691,2025-08-08,2025,2025-08,Server_Mix,Server - Mixed,Servers & Network,1352.0,0,0.8,Net,weighted,1081.6,False,False,,Triangle Ecycling RAL-i7691_ SO-4333-1.pdf
+261,RAL-i7691,2025-08-08,2025,2025-08,Shred,Shred,Metals,1054.0,0,0.03,Net,weighted,31.62,False,False,,Triangle Ecycling RAL-i7691_ SO-4333-1.pdf
+262,RAL-i7691,2025-08-08,2025,2025-08,Wire_Mix,Wire - Mix,Wire,815.0,0,0.7,Net,weighted,570.5,False,False,,Triangle Ecycling RAL-i7691_ SO-4333-1.pdf
+263,RAL-i7691,2025-08-08,2025,2025-08,Shred,Shred,Metals,249.0,0,0.03,Net,weighted,7.47,False,False,,Triangle Ecycling RAL-i7691_ SO-4333-1.pdf
+264,RAL-i7691,2025-08-08,2025,2025-08,ES-Mix,ES Mix (aggregate),Mixed / Aggregate,7051.0,0,0.19,Net,weighted,1339.69,False,False,,Triangle Ecycling RAL-i7691_ SO-4333-1.pdf
+265,RAL-i7691,2025-08-08,2025,2025-08,Screen_LCD-Mix,Screens - LCD / Flat,Screens & Displays,2053.0,0,0.1,Net,weighted,205.3,False,False,,Triangle Ecycling RAL-i7691_ SO-4333-1.pdf
+266,RAL-i7691,2025-08-08,2025,2025-08,PC_Incomplete,PC - Incomplete,Computers & Laptops,3284.0,0,0.5,Net,weighted,1642.0,False,False,,Triangle Ecycling RAL-i7691_ SO-4333-1.pdf
+267,RAL-i7691,2025-08-08,2025,2025-08,Shred,Shred,Metals,473.0,0,0.03,Net,weighted,14.19,False,False,,Triangle Ecycling RAL-i7691_ SO-4333-1.pdf
+268,RAL-i7691,2025-08-08,2025,2025-08,Network,Network,Servers & Network,1834.0,0,1.15,Net,weighted,2109.1,False,False,,Triangle Ecycling RAL-i7691_ SO-4333-1.pdf
+269,RAL-i7691,2025-08-08,2025,2025-08,PC_All-In-Ones,PC - All-In-Ones,Computers & Laptops,800.0,0,0.45,Net,weighted,360.0,False,False,,Triangle Ecycling RAL-i7691_ SO-4333-1.pdf
+270,RAL-i7691,2025-08-08,2025,2025-08,Steel,Steel,Metals,428.0,0,0.03,Net,weighted,12.84,False,False,,Triangle Ecycling RAL-i7691_ SO-4333-1.pdf
+271,RAL-i7840,2025-09-30,2025,2025-09,Adapters - No Wire,Adapters - No Wire,Power & Electrical,19.0,0,0.4,Net,weighted,7.6,False,False,,Triangle Ecycling RAL-i7840_ SO-5672-1.pdf
+272,RAL-i7840,2025-09-30,2025,2025-09,Adapters - With Wire,Adapters - With Wire,Power & Electrical,6.0,0,0.4,Net,weighted,2.4,False,False,,Triangle Ecycling RAL-i7840_ SO-5672-1.pdf
+273,RAL-i7840,2025-09-30,2025,2025-09,Aluminum - Breakage,Aluminum - Breakage,Metals,217.0,0,0.22,Net,weighted,47.74,False,False,,Triangle Ecycling RAL-i7840_ SO-5672-1.pdf
+274,RAL-i7840,2025-09-30,2025,2025-09,Aluminum Module,Aluminum - Module,Metals,13.0,0,0.8,Net,weighted,10.4,False,False,,Triangle Ecycling RAL-i7840_ SO-5672-1.pdf
+275,RAL-i7840,2025-09-30,2025,2025-09,Audio/Video,AV Equipment,Phones & AV,437.0,0,0.03,Net,weighted,13.11,False,False,,Triangle Ecycling RAL-i7840_ SO-5672-1.pdf
+276,RAL-i7840,2025-09-30,2025,2025-09,Cable/Router,Network,Servers & Network,116.0,0,0.65,Net,weighted,75.4,False,False,,Triangle Ecycling RAL-i7840_ SO-5672-1.pdf
+277,RAL-i7840,2025-09-30,2025,2025-09,Docking Stations,Docking Stations,Peripherals & Accessories,61.0,0,0.28,Net,weighted,17.08,False,False,,Triangle Ecycling RAL-i7840_ SO-5672-1.pdf
+278,RAL-i7840,2025-09-30,2025,2025-09,Electric Motors,Electric Motors,Industrial,113.0,0,0.2,Net,weighted,22.6,False,False,,Triangle Ecycling RAL-i7840_ SO-5672-1.pdf
+279,RAL-i7840,2025-09-30,2025,2025-09,Keyboards/Mice,Keyboards / Mice,Peripherals & Accessories,246.0,0,0.03,Net,weighted,7.38,False,False,,Triangle Ecycling RAL-i7840_ SO-5672-1.pdf
+280,RAL-i7840,2025-09-30,2025,2025-09,#2 Laptops,Laptops - #2,Computers & Laptops,288.0,0,1.35,Net,weighted,388.8,False,False,,Triangle Ecycling RAL-i7840_ SO-5672-1.pdf
+281,RAL-i7840,2025-09-30,2025,2025-09,LCD_with Stands,Screens - LCD / Flat,Screens & Displays,10.0,0,0.1,Net,weighted,1.0,False,False,,Triangle Ecycling RAL-i7840_ SO-5672-1.pdf
+282,RAL-i7840,2025-09-30,2025,2025-09,LTO Tapes,LTO Tapes,Boards & Drives,53.0,0,-0.25,Net,weighted,-13.25,False,False,negative price (cost to Triangle),Triangle Ecycling RAL-i7840_ SO-5672-1.pdf
+283,RAL-i7840,2025-09-30,2025,2025-09,MDU,MDU,Other,80.0,0,0.3,Net,weighted,24.0,False,False,,Triangle Ecycling RAL-i7840_ SO-5672-1.pdf
+284,RAL-i7840,2025-09-30,2025,2025-09,Medical Equipment,Medical Equipment,Other,28.0,0,0.42,Net,weighted,11.76,False,False,,Triangle Ecycling RAL-i7840_ SO-5672-1.pdf
+285,RAL-i7840,2025-09-30,2025,2025-09,Batteries_mixed,Batteries - Mixed,Batteries,287.0,0,0.15,Net,weighted,43.05,False,False,,Triangle Ecycling RAL-i7840_ SO-5672-1.pdf
+286,RAL-i7840,2025-09-30,2025,2025-09,Network,Network,Servers & Network,144.0,0,1.3,Net,weighted,187.2,False,False,,Triangle Ecycling RAL-i7840_ SO-5672-1.pdf
+287,RAL-i7840,2025-09-30,2025,2025-09,PCs,PC - Mixed Towers,Computers & Laptops,15.0,0,0.48,Net,weighted,7.2,False,False,,Triangle Ecycling RAL-i7840_ SO-5672-1.pdf
+288,RAL-i7840,2025-09-30,2025,2025-09,Phones - Office Phones,Phones - Office,Phones & AV,333.0,0,0.4,Net,weighted,133.2,False,False,,Triangle Ecycling RAL-i7840_ SO-5672-1.pdf
+289,RAL-i7840,2025-09-30,2025,2025-09,PSUs - Industrial PSU,PSU - Industrial,Power & Electrical,24.0,0,0.5,Net,weighted,12.0,False,False,,Triangle Ecycling RAL-i7840_ SO-5672-1.pdf
+290,RAL-i7840,2025-09-30,2025,2025-09,PSUs - SPSU,PSU - SPSU,Power & Electrical,29.0,0,0.48,Net,weighted,13.92,False,False,,Triangle Ecycling RAL-i7840_ SO-5672-1.pdf
+291,RAL-i7840,2025-09-30,2025,2025-09,PSUs - With Wire,PSU - With Wire,Power & Electrical,86.0,0,0.48,Net,weighted,41.28,False,False,,Triangle Ecycling RAL-i7840_ SO-5672-1.pdf
+292,RAL-i7840,2025-09-30,2025,2025-09,Shred,Shred,Metals,2884.0,0,0.03,Net,weighted,86.52,False,False,,Triangle Ecycling RAL-i7840_ SO-5672-1.pdf
+293,RAL-i7840,2025-09-30,2025,2025-09,Switch And Breakers,Switches / Breakers,Power & Electrical,64.0,0,0.35,Net,weighted,22.4,False,False,,Triangle Ecycling RAL-i7840_ SO-5672-1.pdf
+294,RAL-i7840,2025-09-30,2025,2025-09,UPS with Battery,UPS - With Batteries,Power & Electrical,41.0,0,0.25,Net,weighted,10.25,False,False,,Triangle Ecycling RAL-i7840_ SO-5672-1.pdf
+295,RAL-i7840,2025-09-30,2025,2025-09,Wire - Computer,Wire - Computer,Wire,12.0,0,0.7,Net,weighted,8.4,False,False,,Triangle Ecycling RAL-i7840_ SO-5672-1.pdf
+296,RAL-i7840,2025-09-30,2025,2025-09,Screen_FlatscreenTV,Screens - LCD / Flat,Screens & Displays,1520.0,0,0.1,Net,weighted,152.0,False,False,,Triangle Ecycling RAL-i7840_ SO-5672-1.pdf
+297,RAL-i7840,2025-09-30,2025,2025-09,Aluminum_Breakage,Aluminum - Breakage,Metals,1267.0,0,0.22,Net,weighted,278.74,False,False,,Triangle Ecycling RAL-i7840_ SO-5672-1.pdf
+298,RAL-i7840,2025-09-30,2025,2025-09,Wire_Mix,Wire - Mix,Wire,882.0,0,0.7,Net,weighted,617.4,False,False,,Triangle Ecycling RAL-i7840_ SO-5672-1.pdf
+299,RAL-i7840,2025-09-30,2025,2025-09,Screen_LCD-Mix,Screens - LCD / Flat,Screens & Displays,3365.0,0,0.1,Net,weighted,336.5,False,False,,Triangle Ecycling RAL-i7840_ SO-5672-1.pdf
+300,RAL-i7840,2025-09-30,2025,2025-09,AV_CB-Radio,AV Equipment,Phones & AV,527.0,0,1.2,Net,weighted,632.4,False,False,,Triangle Ecycling RAL-i7840_ SO-5672-1.pdf
+301,RAL-i7840,2025-09-30,2025,2025-09,Server Incomplete,Server - Incomplete,Servers & Network,1350.0,0,0.75,Net,weighted,1012.5,False,False,,Triangle Ecycling RAL-i7840_ SO-5672-1.pdf
+302,RAL-i7840,2025-09-30,2025,2025-09,PC_Incomplete,PC - Incomplete,Computers & Laptops,4641.0,0,0.48,Net,weighted,2227.68,False,False,,Triangle Ecycling RAL-i7840_ SO-5672-1.pdf
+303,RAL-i7840,2025-09-30,2025,2025-09,Steel,Steel,Metals,706.0,0,0.03,Net,weighted,21.18,False,False,,Triangle Ecycling RAL-i7840_ SO-5672-1.pdf
+304,RAL-i7929,2025-10-08,2025,2025-10,Fans,Fans,Industrial,811.0,0,0.16,Net,weighted,129.76,False,False,,Triangle Ecycling RAL-i7929_ SO-5733-1.pdf
+305,RAL-i7929,2025-10-08,2025,2025-10,Printers (No Value),Printers,Peripherals & Accessories,2097.0,0,0.0,Net,weighted,0.0,True,False,,Triangle Ecycling RAL-i7929_ SO-5733-1.pdf
+306,RAL-i7929,2025-10-08,2025,2025-10,ES-Mix,ES Mix (aggregate),Mixed / Aggregate,6805.0,0,0.12,Net,weighted,816.6,False,False,,Triangle Ecycling RAL-i7929_ SO-5733-1.pdf
+307,RAL-i7929,2025-10-08,2025,2025-10,Aluminum_Breakage,Aluminum - Breakage,Metals,738.0,0,0.22,Net,weighted,162.36,False,False,,Triangle Ecycling RAL-i7929_ SO-5733-1.pdf
+308,RAL-i7929,2025-10-08,2025,2025-10,Screen_LCD-Mix,Screens - LCD / Flat,Screens & Displays,1542.0,0,0.1,Net,weighted,154.2,False,False,,Triangle Ecycling RAL-i7929_ SO-5733-1.pdf
+309,RAL-i7929,2025-10-08,2025,2025-10,ConsumerGoods_HomeElectronics,Consumer Goods,Other,1229.0,0,0.15,Net,weighted,184.35,False,False,,Triangle Ecycling RAL-i7929_ SO-5733-1.pdf
+310,RAL-i7929,2025-10-08,2025,2025-10,UPS_WithBatteries,UPS - With Batteries,Power & Electrical,2089.0,0,0.25,Net,weighted,522.25,False,False,,Triangle Ecycling RAL-i7929_ SO-5733-1.pdf
+311,RAL-i7929,2025-10-08,2025,2025-10,Network,Network,Servers & Network,892.0,0,1.3,Net,weighted,1159.6,False,False,,Triangle Ecycling RAL-i7929_ SO-5733-1.pdf
+312,RAL-i7929,2025-10-08,2025,2025-10,PC_All-In-Ones,PC - All-In-Ones,Computers & Laptops,606.0,0,0.48,Net,weighted,290.88,False,False,,Triangle Ecycling RAL-i7929_ SO-5733-1.pdf
+313,RAL-i7929,2025-10-08,2025,2025-10,Steel,Steel,Metals,483.0,0,0.03,Net,weighted,14.49,False,False,,Triangle Ecycling RAL-i7929_ SO-5733-1.pdf
+314,RAL-i8053,2025-11-06,2025,2025-11,Printers (No Value),Printers,Peripherals & Accessories,559.0,0,0.0,Net,weighted,0.0,True,False,,Triangle Ecycling RAL-i8053_ SO-6415-1.pdf
+315,RAL-i8053,2025-11-06,2025,2025-11,Wire_Mix,Wire - Mix,Wire,1258.0,0,0.7,Net,weighted,880.6,False,False,,Triangle Ecycling RAL-i8053_ SO-6415-1.pdf
+316,RAL-i8053,2025-11-06,2025,2025-11,Adapter_withWire,Adapters - With Wire,Power & Electrical,1422.0,0,0.3,Net,weighted,426.6,False,False,,Triangle Ecycling RAL-i8053_ SO-6415-1.pdf
+317,RAL-i8053,2025-11-06,2025,2025-11,Aluminum_Breakage,Aluminum - Breakage,Metals,353.0,0,0.22,Net,weighted,77.66,False,False,,Triangle Ecycling RAL-i8053_ SO-6415-1.pdf
+318,RAL-i8053,2025-11-06,2025,2025-11,Screen_LCD-Mix,Screens - LCD / Flat,Screens & Displays,2001.0,0,0.1,Net,weighted,200.1,False,False,,Triangle Ecycling RAL-i8053_ SO-6415-1.pdf
+319,RAL-i8053,2025-11-06,2025,2025-11,Phones_OfficePhones,Phones - Office,Phones & AV,349.0,0,0.31,Net,weighted,108.19,False,False,,Triangle Ecycling RAL-i8053_ SO-6415-1.pdf
+320,RAL-i8053,2025-11-06,2025,2025-11,PC_Incomplete,PC - Incomplete,Computers & Laptops,2070.0,0,0.48,Net,weighted,993.6,False,False,,Triangle Ecycling RAL-i8053_ SO-6415-1.pdf
+321,RAL-i8053,2025-11-06,2025,2025-11,Wire_Computer,Wire - Computer,Wire,906.0,0,0.7,Net,weighted,634.2,False,False,,Triangle Ecycling RAL-i8053_ SO-6415-1.pdf
+322,RAL-i8053,2025-11-06,2025,2025-11,Laptops_Mixed,Laptops - Mixed,Computers & Laptops,1845.0,0,1.65,Net,weighted,3044.25,False,False,,Triangle Ecycling RAL-i8053_ SO-6415-1.pdf
+323,RAL-i8053,2025-11-06,2025,2025-11,UPS_WithBatteries,UPS - With Batteries,Power & Electrical,1850.0,0,0.25,Net,weighted,462.5,False,False,,Triangle Ecycling RAL-i8053_ SO-6415-1.pdf
+324,RAL-i8053,2025-11-06,2025,2025-11,Aluminum_Module,Aluminum - Module,Metals,549.0,0,0.45,Net,weighted,247.05,False,False,,Triangle Ecycling RAL-i8053_ SO-6415-1.pdf
+325,RAL-i8053,2025-11-06,2025,2025-11,Network,Network,Servers & Network,1009.0,0,1.3,Net,weighted,1311.7,False,False,,Triangle Ecycling RAL-i8053_ SO-6415-1.pdf
+326,RAL-i8053,2025-11-06,2025,2025-11,PC_All-In-Ones,PC - All-In-Ones,Computers & Laptops,1383.0,0,0.35,Net,weighted,484.05,False,False,,Triangle Ecycling RAL-i8053_ SO-6415-1.pdf
+327,RAL-i8301,2026-01-30,2026,2026-01,Screen_FlatscreenTV (No Value),Screens - LCD / Flat,Screens & Displays,1817.0,0,0.0,Net,weighted,0.0,True,False,,Triangle Ecycling RAL-i8301_ SO-8461-1.pdf
+328,RAL-i8301,2026-01-30,2026,2026-01,Printers,Printers,Peripherals & Accessories,200.0,0,0.03,Net,weighted,6.0,False,False,,Triangle Ecycling RAL-i8301_ SO-8461-1.pdf
+329,RAL-i8301,2026-01-30,2026,2026-01,PowerCabinet_25,Power Cabinet,Power & Electrical,364.0,0,0.3,Net,weighted,109.2,False,False,,Triangle Ecycling RAL-i8301_ SO-8461-1.pdf
+330,RAL-i8301,2026-01-30,2026,2026-01,Wire_Mix,Wire - Mix,Wire,846.0,0,0.98,Net,weighted,829.08,False,False,,Triangle Ecycling RAL-i8301_ SO-8461-1.pdf
+331,RAL-i8301,2026-01-30,2026,2026-01,Screen_LCD-Mix,Screens - LCD / Flat,Screens & Displays,1188.0,0,0.08,Net,weighted,95.04,False,False,,Triangle Ecycling RAL-i8301_ SO-8461-1.pdf
+332,RAL-i8301,2026-01-30,2026,2026-01,Phones_OfficePhones,Phones - Office,Phones & AV,599.0,0,0.4,Net,weighted,239.6,False,False,,Triangle Ecycling RAL-i8301_ SO-8461-1.pdf
+333,RAL-i8301,2026-01-30,2026,2026-01,Laptops_Mixed,Laptops - Mixed,Computers & Laptops,648.0,0,1.6,Net,weighted,1036.8,False,False,,Triangle Ecycling RAL-i8301_ SO-8461-1.pdf
+334,RAL-i8301,2026-01-30,2026,2026-01,UPS_WithBatteries,UPS - With Batteries,Power & Electrical,2004.0,0,0.3,Net,weighted,601.2,False,False,,Triangle Ecycling RAL-i8301_ SO-8461-1.pdf
+335,RAL-i8301,2026-01-30,2026,2026-01,PC_All-In-Ones,PC - All-In-Ones,Computers & Laptops,636.0,0,0.38,Net,weighted,241.68,False,False,,Triangle Ecycling RAL-i8301_ SO-8461-1.pdf
+336,RAL-i8301,2026-01-30,2026,2026-01,Toner,Toner,Peripherals & Accessories,1036.0,0,-1.0,Net,weighted,-1036.0,False,False,negative price (cost to Triangle),Triangle Ecycling RAL-i8301_ SO-8461-1.pdf
+337,RAL-i8301,2026-01-30,2026,2026-01,Steel,Steel,Metals,2635.0,0,0.03,Net,weighted,79.05,False,False,,Triangle Ecycling RAL-i8301_ SO-8461-1.pdf
+338,RAL-i8301,2026-01-30,2026,2026-01,Adapters - No Wire,Adapters - No Wire,Power & Electrical,34.0,0,0.45,Net,weighted,15.3,False,False,,Triangle Ecycling RAL-i8301_ SO-8461-1.pdf
+339,RAL-i8301,2026-01-30,2026,2026-01,Aluminum Module,Aluminum - Module,Metals,106.0,0,0.8,Net,weighted,84.8,False,False,,Triangle Ecycling RAL-i8301_ SO-8461-1.pdf
+340,RAL-i8301,2026-01-30,2026,2026-01,Audio/Video,AV Equipment,Phones & AV,626.0,0,0.14,Net,weighted,87.64,False,False,,Triangle Ecycling RAL-i8301_ SO-8461-1.pdf
+341,RAL-i8301,2026-01-30,2026,2026-01,Batteries - Li-Ion Mix,Batteries - Mixed,Batteries,156.0,0,0.6,Net,weighted,93.6,False,False,,Triangle Ecycling RAL-i8301_ SO-8461-1.pdf
+342,RAL-i8301,2026-01-30,2026,2026-01,Cable Boxes,Cable Box / Modem,Servers & Network,100.0,0,0.55,Net,weighted,55.0,False,False,,Triangle Ecycling RAL-i8301_ SO-8461-1.pdf
+343,RAL-i8301,2026-01-30,2026,2026-01,Chassis (From ES Mix),Chassis,Metals,46.0,0,0.3,Net,weighted,13.8,False,True,breakout of ES Mix (check double counting),Triangle Ecycling RAL-i8301_ SO-8461-1.pdf
+344,RAL-i8301,2026-01-30,2026,2026-01,Docking Stations (From ES Mix),Docking Stations,Peripherals & Accessories,610.0,0,0.4,Net,weighted,244.0,False,True,breakout of ES Mix (check double counting),Triangle Ecycling RAL-i8301_ SO-8461-1.pdf
+345,RAL-i8301,2026-01-30,2026,2026-01,Keyboards (From ES Mix),Keyboards / Mice,Peripherals & Accessories,296.0,0,0.03,Net,weighted,8.88,False,True,breakout of ES Mix (check double counting),Triangle Ecycling RAL-i8301_ SO-8461-1.pdf
+346,RAL-i8301,2026-01-30,2026,2026-01,Laptops (From ES Mix),Laptops - Mixed,Computers & Laptops,103.0,0,1.6,Net,weighted,164.8,False,True,breakout of ES Mix (check double counting),Triangle Ecycling RAL-i8301_ SO-8461-1.pdf
+347,RAL-i8301,2026-01-30,2026,2026-01,LCD_with Stands,Screens - LCD / Flat,Screens & Displays,13.0,0,0.08,Net,weighted,1.04,False,False,,Triangle Ecycling RAL-i8301_ SO-8461-1.pdf
+348,RAL-i8301,2026-01-30,2026,2026-01,MDU,MDU,Other,12.0,0,0.35,Net,weighted,4.2,False,False,,Triangle Ecycling RAL-i8301_ SO-8461-1.pdf
+349,RAL-i8301,2026-01-30,2026,2026-01,MedicalEquipment_Medical,Medical Equipment,Other,235.0,0,0.4,Net,weighted,94.0,False,False,,Triangle Ecycling RAL-i8301_ SO-8461-1.pdf
+350,RAL-i8301,2026-01-30,2026,2026-01,Midgrade Boards,Boards - Midgrade,Boards & Drives,2.0,0,3.25,Net,weighted,6.5,False,False,,Triangle Ecycling RAL-i8301_ SO-8461-1.pdf
+351,RAL-i8301,2026-01-30,2026,2026-01,Network (From ES Mix),Network,Servers & Network,51.0,0,1.35,Net,weighted,68.85,False,True,breakout of ES Mix (check double counting),Triangle Ecycling RAL-i8301_ SO-8461-1.pdf
+352,RAL-i8301,2026-01-30,2026,2026-01,PCs,PC - Mixed Towers,Computers & Laptops,316.0,0,0.53,Net,weighted,167.48,False,False,,Triangle Ecycling RAL-i8301_ SO-8461-1.pdf
+353,RAL-i8301,2026-01-30,2026,2026-01,Office Phones (From ES Mix),Phones - Office,Phones & AV,361.0,0,0.4,Net,weighted,144.4,False,True,breakout of ES Mix (check double counting),Triangle Ecycling RAL-i8301_ SO-8461-1.pdf
+354,RAL-i8301,2026-01-30,2026,2026-01,Printers,Printers,Peripherals & Accessories,802.0,0,0.03,Net,weighted,24.06,False,False,,Triangle Ecycling RAL-i8301_ SO-8461-1.pdf
+355,RAL-i8301,2026-01-30,2026,2026-01,PSUs - With Wire,PSU - With Wire,Power & Electrical,52.0,0,0.55,Net,weighted,28.6,False,False,,Triangle Ecycling RAL-i8301_ SO-8461-1.pdf
+356,RAL-i8301,2026-01-30,2026,2026-01,Printer/Scanner (From ES Mix),Printers,Peripherals & Accessories,117.0,0,0.03,Net,weighted,3.51,False,True,breakout of ES Mix (check double counting),Triangle Ecycling RAL-i8301_ SO-8461-1.pdf
+357,RAL-i8301,2026-01-30,2026,2026-01,Shred,Shred,Metals,2307.0,0,0.03,Net,weighted,69.21,False,False,,Triangle Ecycling RAL-i8301_ SO-8461-1.pdf
+358,RAL-i8301,2026-01-30,2026,2026-01,SWITCH AND BREAKERS (From ES Mix),Switches / Breakers,Power & Electrical,487.0,0,0.3,Net,weighted,146.1,False,True,breakout of ES Mix (check double counting),Triangle Ecycling RAL-i8301_ SO-8461-1.pdf
+359,RAL-i8301,2026-01-30,2026,2026-01,COMPUTER WIRE,Wire - Computer,Wire,26.0,0,0.98,Net,weighted,25.48,False,False,,Triangle Ecycling RAL-i8301_ SO-8461-1.pdf
+360,RAL-i8438,2026-03-12,2026,2026-03,Screen_FlatscreenTV (No Value),Screens - LCD / Flat,Screens & Displays,1645.0,0,0.0,Net,weighted,0.0,True,False,,Triangle Ecycling RAL-i8438; SO-9677-1.pdf
+361,RAL-i8438,2026-03-12,2026,2026-03,Server_Mix,Server - Mixed,Servers & Network,1055.0,0,0.8,Net,weighted,844.0,False,False,,Triangle Ecycling RAL-i8438; SO-9677-1.pdf
+362,RAL-i8438,2026-03-12,2026,2026-03,Batteries_LeadAcid,Batteries - Lead Acid,Batteries,1127.0,0,0.2,Net,weighted,225.4,False,False,,Triangle Ecycling RAL-i8438; SO-9677-1.pdf
+363,RAL-i8438,2026-03-12,2026,2026-03,Wire_Mix,Wire - Mix,Wire,974.0,0,0.98,Net,weighted,954.52,False,False,,Triangle Ecycling RAL-i8438; SO-9677-1.pdf
+364,RAL-i8438,2026-03-12,2026,2026-03,ES-Mix,ES Mix (aggregate),Mixed / Aggregate,9081.0,0,0.14,Net,weighted,1271.34,False,False,,Triangle Ecycling RAL-i8438; SO-9677-1.pdf
+365,RAL-i8438,2026-03-12,2026,2026-03,Screen_LCD-Mix,Screens - LCD / Flat,Screens & Displays,4368.0,0,0.08,Net,weighted,349.44,False,False,,Triangle Ecycling RAL-i8438; SO-9677-1.pdf
+366,RAL-i8438,2026-03-12,2026,2026-03,Tablets_Tablets,Tablets,Computers & Laptops,666.0,0,1.4,Net,weighted,932.4,False,False,,Triangle Ecycling RAL-i8438; SO-9677-1.pdf
+367,RAL-i8438,2026-03-12,2026,2026-03,PC_Incomplete,PC - Incomplete,Computers & Laptops,1919.0,0,0.48,Net,weighted,921.12,False,False,,Triangle Ecycling RAL-i8438; SO-9677-1.pdf
+368,RAL-i8438,2026-03-12,2026,2026-03,Laptops_Mixed,Laptops - Mixed,Computers & Laptops,1087.0,0,1.6,Net,weighted,1739.2,False,False,,Triangle Ecycling RAL-i8438; SO-9677-1.pdf
+369,RAL-i8438,2026-03-12,2026,2026-03,UPS_WithBatteries,UPS - With Batteries,Power & Electrical,2272.0,0,0.3,Net,weighted,681.6,False,False,,Triangle Ecycling RAL-i8438; SO-9677-1.pdf
+370,RAL-i8438,2026-03-12,2026,2026-03,Network,Network,Servers & Network,788.0,0,1.35,Net,weighted,1063.8,False,False,,Triangle Ecycling RAL-i8438; SO-9677-1.pdf
+371,RAL-i8438,2026-03-12,2026,2026-03,PC_All-In-Ones,PC - All-In-Ones,Computers & Laptops,534.0,0,0.4,Net,weighted,213.6,False,False,,Triangle Ecycling RAL-i8438; SO-9677-1.pdf
+372,RAL-i8539,2026-04-02,2026,2026-04,Server_Mix,Server - Mixed,Servers & Network,848.0,0,0.8,Net,weighted,678.4,False,False,,RAL-i8539_SO-9958-1.pdf
+373,RAL-i8539,2026-04-02,2026,2026-04,Printers,Printers,Peripherals & Accessories,2520.0,9,0.03,Net,weighted,75.6,False,False,,RAL-i8539_SO-9958-1.pdf
+374,RAL-i8539,2026-04-02,2026,2026-04,Wire_Mix,Wire - Mix,Wire,1019.0,0,0.98,Net,weighted,998.62,False,False,,RAL-i8539_SO-9958-1.pdf
+375,RAL-i8539,2026-04-02,2026,2026-04,ES-Mix,ES Mix (aggregate),Mixed / Aggregate,4463.0,0,0.17,Net,weighted,749.34,False,False,,RAL-i8539_SO-9958-1.pdf
+376,RAL-i8539,2026-04-02,2026,2026-04,Aluminum_Breakage,Aluminum - Breakage,Metals,1305.0,0,0.22,Net,weighted,287.1,False,False,,RAL-i8539_SO-9958-1.pdf
+377,RAL-i8539,2026-04-02,2026,2026-04,Screen_LCD-Mix,Screens - LCD / Flat,Screens & Displays,2837.0,0,0.08,Net,weighted,226.96,False,False,,RAL-i8539_SO-9958-1.pdf
+378,RAL-i8539,2026-04-02,2026,2026-04,Adapter_Laptop,Adapters - Laptop,Power & Electrical,1557.0,0,0.55,Net,weighted,856.35,False,False,,RAL-i8539_SO-9958-1.pdf
+379,RAL-i8539,2026-04-02,2026,2026-04,PC_Incomplete,PC - Incomplete,Computers & Laptops,1879.0,0,0.48,Net,weighted,901.92,False,False,,RAL-i8539_SO-9958-1.pdf
+380,RAL-i8539,2026-04-02,2026,2026-04,HDD_WithBoards,HDD - With Boards,Boards & Drives,1725.0,0,1.2,Net,weighted,2070.0,False,False,,RAL-i8539_SO-9958-1.pdf
+381,RAL-i8539,2026-04-02,2026,2026-04,ConsumerGoods_HomeElectronics,Consumer Goods,Other,1664.0,0,0.15,Net,weighted,249.6,False,False,,RAL-i8539_SO-9958-1.pdf
+382,RAL-i8539,2026-04-02,2026,2026-04,PC_All-In-Ones,PC - All-In-Ones,Computers & Laptops,493.0,0,0.4,Net,weighted,197.2,False,False,,RAL-i8539_SO-9958-1.pdf
+383,RAL-i8539,2026-04-02,2026,2026-04,Toner,Toner,Peripherals & Accessories,353.0,0,-1.0,Net,weighted,-353.0,False,False,negative price (cost to Triangle),RAL-i8539_SO-9958-1.pdf
+384,RAL-i8539,2026-04-02,2026,2026-04,Steel,Steel,Metals,2625.0,5,0.03,Net,weighted,78.75,False,False,,RAL-i8539_SO-9958-1.pdf
+385,RAL-i8604,2026-05-06,2026,2026-05,Printers,Printers,Peripherals & Accessories,2403.0,0,0.03,Net,weighted,72.09,False,False,,Triangle Ecycling RAL-i8604; SO-10766-1.pdf
+386,RAL-i8604,2026-05-06,2026,2026-05,AV_Equipment,AV Equipment,Phones & AV,667.0,0,0.14,Net,weighted,93.38,False,False,,Triangle Ecycling RAL-i8604; SO-10766-1.pdf
+387,RAL-i8604,2026-05-06,2026,2026-05,Wire_Mix,Wire - Mix,Wire,1030.0,0,0.98,Net,weighted,1009.4,False,False,,Triangle Ecycling RAL-i8604; SO-10766-1.pdf
+388,RAL-i8604,2026-05-06,2026,2026-05,ES-Mix,ES Mix (aggregate),Mixed / Aggregate,6975.0,0,0.35,Net,weighted,2441.25,False,False,,Triangle Ecycling RAL-i8604; SO-10766-1.pdf
+389,RAL-i8604,2026-05-06,2026,2026-05,Screen_LCD-Mix,Screens - LCD / Flat,Screens & Displays,3834.0,0,0.08,Net,weighted,306.72,False,False,,Triangle Ecycling RAL-i8604; SO-10766-1.pdf
+390,RAL-i8604,2026-05-06,2026,2026-05,PC_Incomplete,PC - Incomplete,Computers & Laptops,4537.0,0,0.48,Net,weighted,2177.76,False,False,,Triangle Ecycling RAL-i8604; SO-10766-1.pdf
+391,RAL-i8604,2026-05-06,2026,2026-05,Laptops_Mixed,Laptops - Mixed,Computers & Laptops,1588.0,0,1.6,Net,weighted,2540.8,False,False,,Triangle Ecycling RAL-i8604; SO-10766-1.pdf
+392,RAL-i8604,2026-05-06,2026,2026-05,Steel,Steel,Metals,54.0,0,0.03,Net,weighted,1.62,False,False,,Triangle Ecycling RAL-i8604; SO-10766-1.pdf
+393,RAL-i8604,2026-05-06,2026,2026-05,UPS with Batteries,UPS - With Batteries,Power & Electrical,4063.0,0,0.3,Net,weighted,1218.9,False,False,,Triangle Ecycling RAL-i8604; SO-10766-1.pdf
+394,RAL-i8696,2026-06-08,2026,2026-06,Inverters,Inverters,Power & Electrical,1445.0,0,0.9,Net,weighted,1300.5,False,False,,Triangle Ecycling RAL-i8696; SO-11509-1.pdf
+395,RAL-i8696,2026-06-08,2026,2026-06,Wire_Mix,Wire - Mix,Wire,2859.0,0,0.98,Net,weighted,2801.82,False,False,,Triangle Ecycling RAL-i8696; SO-11509-1.pdf
+396,RAL-i8696,2026-06-08,2026,2026-06,ES-Mix,ES Mix (aggregate),Mixed / Aggregate,8530.0,0,0.16,Net,weighted,1364.8,False,False,,Triangle Ecycling RAL-i8696; SO-11509-1.pdf
+397,RAL-i8696,2026-06-08,2026,2026-06,Screen_LCD-Mix,Screens - LCD / Flat,Screens & Displays,3064.0,0,0.08,Net,weighted,245.12,False,False,,Triangle Ecycling RAL-i8696; SO-11509-1.pdf
+398,RAL-i8696,2026-06-08,2026,2026-06,Server_Incomplete,Server - Incomplete,Servers & Network,1788.0,0,0.8,Net,weighted,1430.4,False,False,,Triangle Ecycling RAL-i8696; SO-11509-1.pdf
+399,RAL-i8696,2026-06-08,2026,2026-06,Light_Fixtures,Lighting,Other,1119.0,0,0.2,Net,weighted,223.8,False,False,,Triangle Ecycling RAL-i8696; SO-11509-1.pdf
+400,RAL-i8696,2026-06-08,2026,2026-06,PC_Incomplete,PC - Incomplete,Computers & Laptops,2264.0,0,0.48,Net,weighted,1086.72,False,False,,Triangle Ecycling RAL-i8696; SO-11509-1.pdf
+401,RAL-i8696,2026-06-08,2026,2026-06,Batteries_Mix,Batteries - Mixed,Batteries,696.0,0,0.31,Net,weighted,215.55,False,False,,Triangle Ecycling RAL-i8696; SO-11509-1.pdf
+402,RAL-i8696,2026-06-08,2026,2026-06,Laptops_Mixed,Laptops - Mixed,Computers & Laptops,324.0,0,1.6,Net,weighted,518.4,False,False,,Triangle Ecycling RAL-i8696; SO-11509-1.pdf
+403,RAL-i8696,2026-06-08,2026,2026-06,Strip_Power-Strip,Power Strips,Power & Electrical,1798.0,0,0.35,Net,weighted,629.3,False,False,,Triangle Ecycling RAL-i8696; SO-11509-1.pdf
+404,RAL-i8696,2026-06-08,2026,2026-06,UPS_WithBatteries,UPS - With Batteries,Power & Electrical,1692.0,0,0.3,Net,weighted,507.6,False,False,,Triangle Ecycling RAL-i8696; SO-11509-1.pdf
+405,RAL-i8696,2026-06-08,2026,2026-06,PC_All-In-Ones,PC - All-In-Ones,Computers & Laptops,631.0,0,0.4,Net,weighted,252.4,False,False,,Triangle Ecycling RAL-i8696; SO-11509-1.pdf
+406,RAL-i8696,2026-06-08,2026,2026-06,Toner,Toner,Peripherals & Accessories,688.0,0,-1.0,Net,weighted,-688.0,False,False,negative price (cost to Triangle),Triangle Ecycling RAL-i8696; SO-11509-1.pdf
+407,RAL-i8696,2026-06-08,2026,2026-06,Steel,Steel,Metals,2995.0,0,0.03,Net,weighted,89.85,False,False,,Triangle Ecycling RAL-i8696; SO-11509-1.pdf
+408,RAL-i8797,2026-06-15,2026,2026-06,Printers,Printers,Peripherals & Accessories,210.0,0,0.03,Net,weighted,6.3,False,False,,Triangle Ecycling RAL-i8797; SO-12124-1.pdf
+409,RAL-i8797,2026-06-15,2026,2026-06,FocusMaterial_CRT,CRT,Screens & Displays,443.0,0,-1.0,Net,weighted,-443.0,False,False,negative price (cost to Triangle),Triangle Ecycling RAL-i8797; SO-12124-1.pdf
+410,RAL-i8797,2026-06-15,2026,2026-06,ES-Mix,ES Mix (aggregate),Mixed / Aggregate,608.0,0,0.2,Net,weighted,121.6,False,False,,Triangle Ecycling RAL-i8797; SO-12124-1.pdf
+411,RAL-i8797,2026-06-15,2026,2026-06,Server_Incomplete,Server - Incomplete,Servers & Network,1110.0,0,0.8,Net,weighted,888.0,False,False,,Triangle Ecycling RAL-i8797; SO-12124-1.pdf
+412,RAL-i8797,2026-06-15,2026,2026-06,PC_Incomplete,PC - Incomplete,Computers & Laptops,981.0,0,0.48,Net,weighted,470.88,False,False,,Triangle Ecycling RAL-i8797; SO-12124-1.pdf
+413,RAL-i8797,2026-06-15,2026,2026-06,PowerCabinet_10,Power Cabinet,Power & Electrical,599.0,0,0.25,Net,weighted,149.75,False,False,,Triangle Ecycling RAL-i8797; SO-12124-1.pdf
+414,RAL-i8797,2026-06-15,2026,2026-06,Steel,Steel,Metals,459.0,0,0.03,Net,weighted,13.77,False,False,,Triangle Ecycling RAL-i8797; SO-12124-1.pdf
+415,RAL-i8843,2026-06-29,2026,2026-06,UPS_WithBatteries,UPS - With Batteries,Power & Electrical,1776.0,0,-0.28,Net,weighted,-497.28,False,False,negative price (cost to Triangle),RAL-i8843_SO-12825-1-1.pdf
+416,RAL-i8843,2026-06-29,2026,2026-06,Batteries_LFP,Batteries - LFP,Batteries,4224.0,0,0.35,Net,weighted,1478.4,False,False,,RAL-i8843_SO-12825-1-1.pdf
+417,RAL-i8843,2026-06-29,2026,2026-06,Batteries_Li-Ion,Batteries - Li-Ion / Polymer,Batteries,499.0,0,-0.6,Net,weighted,-299.4,False,False,negative price (cost to Triangle),RAL-i8843_SO-12825-1-1.pdf
+418,RAL-i8823,2026-07-21,2026,2026-07,ES Mix,ES Mix (aggregate),Mixed / Aggregate,,0,,Flat,flat_amount,1281.0,False,False,"flat amount, no weight",RAL-i8823_SO-12306-1-1.pdf
+419,RAL-i8823,2026-07-21,2026,2026-07,Printers,Printers,Peripherals & Accessories,501.0,0,0.03,Net,weighted,15.03,False,False,,RAL-i8823_SO-12306-1-1.pdf
+420,RAL-i8823,2026-07-21,2026,2026-07,Wire_Mix,Wire - Mix,Wire,1612.0,0,0.98,Net,weighted,1579.76,False,False,,RAL-i8823_SO-12306-1-1.pdf
+421,RAL-i8823,2026-07-21,2026,2026-07,Laptops_ChromebookMix,Laptops - Chromebook Mix,Computers & Laptops,451.0,0,1.8,Net,weighted,811.8,False,False,,RAL-i8823_SO-12306-1-1.pdf
+422,RAL-i8823,2026-07-21,2026,2026-07,Screen_LCD-Mix,Screens - LCD / Flat,Screens & Displays,3193.0,0,0.08,Net,weighted,255.44,False,False,,RAL-i8823_SO-12306-1-1.pdf
+423,RAL-i8823,2026-07-21,2026,2026-07,Aluminum_AOS,Aluminum - AOS,Metals,654.0,0,0.7,Net,weighted,457.8,False,False,,RAL-i8823_SO-12306-1-1.pdf
+424,RAL-i8823,2026-07-21,2026,2026-07,Tablets_Tablets,Tablets,Computers & Laptops,161.0,0,1.4,Net,weighted,225.4,False,False,,RAL-i8823_SO-12306-1-1.pdf
+425,RAL-i8823,2026-07-21,2026,2026-07,Server_Incomplete,Server - Incomplete,Servers & Network,1712.0,0,0.8,Net,weighted,1369.6,False,False,,RAL-i8823_SO-12306-1-1.pdf
+426,RAL-i8823,2026-07-21,2026,2026-07,PC_Incomplete,PC - Incomplete,Computers & Laptops,3138.0,0,0.48,Net,weighted,1506.24,False,False,,RAL-i8823_SO-12306-1-1.pdf
+427,RAL-i8823,2026-07-21,2026,2026-07,HDD_WithBoards,HDD - With Boards,Boards & Drives,1565.0,0,1.2,Net,weighted,1878.0,False,False,,RAL-i8823_SO-12306-1-1.pdf
+428,RAL-i8823,2026-07-21,2026,2026-07,UPS_WithBatteries,UPS - With Batteries,Power & Electrical,2053.0,0,0.28,Net,weighted,574.84,False,False,,RAL-i8823_SO-12306-1-1.pdf
+429,RAL-i8823,2026-07-21,2026,2026-07,PC_All-In-Ones,PC - All-In-Ones,Computers & Laptops,546.0,0,0.4,Net,weighted,218.4,False,False,,RAL-i8823_SO-12306-1-1.pdf
+430,RAL-i8823,2026-07-21,2026,2026-07,Steel,Steel,Metals,523.0,0,0.03,Net,weighted,15.69,False,False,,RAL-i8823_SO-12306-1-1.pdf
+431,RAL-i8872,2026-07-24,2026,2026-07,ES Mix,ES Mix (aggregate),Mixed / Aggregate,10563.0,0,0.14,Net,weighted,1478.82,False,False,,RAL-i8872_SO-13013-1-1.pdf
+432,RAL-i8872,2026-07-24,2026,2026-07,Batteries - Laptop,Batteries - Laptop,Batteries,55.0,0,0.55,Net,weighted,30.25,False,False,,RAL-i8872_SO-13013-1-1.pdf
+433,RAL-i8872,2026-07-24,2026,2026-07,Batteries_Commercial Primary,Batteries - Alkaline / Primary,Batteries,1.0,0,-2.67,Net,weighted,-2.67,False,False,negative price (cost to Triangle),RAL-i8872_SO-13013-1-1.pdf
+434,RAL-i8872,2026-07-24,2026,2026-07,Batteries_Polymer,Batteries - Li-Ion / Polymer,Batteries,12.0,0,0.15,Net,weighted,1.8,False,False,,RAL-i8872_SO-13013-1-1.pdf
+435,RAL-i8872,2026-07-24,2026,2026-07,Batteries_Lithium Ion (Tool),Batteries - Li-Ion (Tool),Batteries,19.0,0,0.35,Net,weighted,6.65,False,False,,RAL-i8872_SO-13013-1-1.pdf
+436,RAL-i8872,2026-07-24,2026,2026-07,Batteries_Alkaline,Batteries - Alkaline / Primary,Batteries,56.0,0,-0.16,Net,weighted,-8.96,False,False,negative price (cost to Triangle),RAL-i8872_SO-13013-1-1.pdf
+437,RAL-i8872,2026-07-24,2026,2026-07,Batteries_Cellphone,Batteries - Cellphone,Batteries,3.0,0,0.6,Net,weighted,1.8,False,False,,RAL-i8872_SO-13013-1-1.pdf
+438,RAL-i8872,2026-07-24,2026,2026-07,Batteries_Consumer Primary,Batteries - Alkaline / Primary,Batteries,2.0,0,-1.9,Net,weighted,-3.8,False,False,negative price (cost to Triangle),RAL-i8872_SO-13013-1-1.pdf
+439,RAL-i8872,2026-07-24,2026,2026-07,Batteries_NiCd,Batteries - NiCd / NiMH,Batteries,2.0,0,-0.45,Net,weighted,-0.9,False,False,negative price (cost to Triangle),RAL-i8872_SO-13013-1-1.pdf
+440,RAL-i8872,2026-07-24,2026,2026-07,Batteries_Lithium Ion,Batteries - Li-Ion / Polymer,Batteries,33.0,0,0.35,Net,weighted,11.55,False,False,,RAL-i8872_SO-13013-1-1.pdf
+441,RAL-i8872,2026-07-24,2026,2026-07,Batteries_Damaged_Lithium Ion,Batteries - Damaged Li-Ion,Batteries,74.0,0,-0.15,Net,weighted,-11.1,False,False,negative price (cost to Triangle),RAL-i8872_SO-13013-1-1.pdf
+442,RAL-i8872,2026-07-24,2026,2026-07,Printers,Printers,Peripherals & Accessories,349.0,0,0.03,Net,weighted,10.47,False,False,,RAL-i8872_SO-13013-1-1.pdf
+443,RAL-i8872,2026-07-24,2026,2026-07,Wire_Mix,Wire - Mix,Wire,1552.0,0,0.98,Net,weighted,1520.96,False,False,,RAL-i8872_SO-13013-1-1.pdf
+444,RAL-i8872,2026-07-24,2026,2026-07,Adapter_withWire,Adapters - With Wire,Power & Electrical,1214.0,0,0.3,Net,weighted,364.2,False,False,,RAL-i8872_SO-13013-1-1.pdf
+445,RAL-i8872,2026-07-24,2026,2026-07,Screen_LCD-Mix,Screens - LCD / Flat,Screens & Displays,5585.0,0,0.08,Net,weighted,446.8,False,False,,RAL-i8872_SO-13013-1-1.pdf
+446,RAL-i8872,2026-07-24,2026,2026-07,Aluminum,Aluminum,Metals,472.0,0,0.65,Net,weighted,306.8,False,False,,RAL-i8872_SO-13013-1-1.pdf
+447,RAL-i8872,2026-07-24,2026,2026-07,UPS_WithBatteries,UPS - With Batteries,Power & Electrical,553.0,0,0.28,Net,weighted,154.84,False,False,,RAL-i8872_SO-13013-1-1.pdf
+448,RAL-i8872,2026-07-24,2026,2026-07,PC_All-In-Ones,PC - All-In-Ones,Computers & Laptops,433.0,0,0.4,Net,weighted,173.2,False,False,,RAL-i8872_SO-13013-1-1.pdf
+449,RAL-i8872,2026-07-24,2026,2026-07,Steel,Steel,Metals,2650.0,0,0.03,Net,weighted,79.5,False,False,,RAL-i8872_SO-13013-1-1.pdf

@@ -1,0 +1,152 @@
+commodity_raw,commodity_clean,commodity_group,n_lines,first_seen,last_seen
+Batteries_Alkaline,Batteries - Alkaline / Primary,Batteries,2,2025-04-17,2026-07-24
+Batteries_Commercial Primary,Batteries - Alkaline / Primary,Batteries,1,2026-07-24,2026-07-24
+Batteries_Consumer Primary,Batteries - Alkaline / Primary,Batteries,2,2025-04-17,2026-07-24
+Batteries_Cellphone,Batteries - Cellphone,Batteries,2,2025-04-17,2026-07-24
+Batteries_Damaged_Lithium Ion,Batteries - Damaged Li-Ion,Batteries,1,2026-07-24,2026-07-24
+Batteries_LFP,Batteries - LFP,Batteries,2,2025-06-26,2026-06-29
+Batteries - Laptop,Batteries - Laptop,Batteries,1,2026-07-24,2026-07-24
+Batteries_Laptop,Batteries - Laptop,Batteries,2,2025-01-31,2025-04-17
+Batteries_LeadAcid,Batteries - Lead Acid,Batteries,1,2026-03-12,2026-03-12
+Batteries_LeadAcid-Steel,Batteries - Lead Acid,Batteries,1,2025-03-05,2025-03-05
+Batteries_Li-Ion_Tool,Batteries - Li-Ion (Tool),Batteries,1,2025-04-17,2025-04-17
+Batteries_Lithium Ion (Tool),Batteries - Li-Ion (Tool),Batteries,1,2026-07-24,2026-07-24
+Batteries Li Polymer,Batteries - Li-Ion / Polymer,Batteries,1,2025-04-17,2025-04-17
+Batteries_Li-Ion,Batteries - Li-Ion / Polymer,Batteries,2,2025-04-17,2026-06-29
+Batteries_Lithium Ion,Batteries - Li-Ion / Polymer,Batteries,1,2026-07-24,2026-07-24
+Batteries_Polymer,Batteries - Li-Ion / Polymer,Batteries,1,2026-07-24,2026-07-24
+Batteries - Li-Ion Mix,Batteries - Mixed,Batteries,1,2026-01-30,2026-01-30
+Batteries_Mix,Batteries - Mixed,Batteries,1,2026-06-08,2026-06-08
+Batteries_mixed,Batteries - Mixed,Batteries,2,2025-05-16,2025-09-30
+Batteries_Ni-Cd,Batteries - NiCd / NiMH,Batteries,1,2025-04-17,2025-04-17
+Batteries_Ni-Mh,Batteries - NiCd / NiMH,Batteries,1,2025-04-17,2025-04-17
+Batteries_NiCd,Batteries - NiCd / NiMH,Batteries,1,2026-07-24,2026-07-24
+Boards_Midgrade,Boards - Midgrade,Boards & Drives,6,2025-01-06,2025-05-16
+Boards_PS-LG,Boards - Midgrade,Boards & Drives,1,2025-05-13,2025-05-13
+Midgrade Boards,Boards - Midgrade,Boards & Drives,1,2026-01-30,2026-01-30
+HDD_Shredded-WithBoards,HDD - With Boards,Boards & Drives,1,2025-08-04,2025-08-04
+HDD_W/board,HDD - With Boards,Boards & Drives,1,2025-01-31,2025-01-31
+HDD_WithBoards,HDD - With Boards,Boards & Drives,6,2025-01-31,2026-07-21
+HDD_w/ Board,HDD - With Boards,Boards & Drives,2,2025-03-05,2025-05-13
+LTO Tapes,LTO Tapes,Boards & Drives,1,2025-09-30,2025-09-30
+Kiosk,Kiosk,Computers & Laptops,1,2025-06-26,2025-06-26
+#2 Laptops,Laptops - #2,Computers & Laptops,1,2025-09-30,2025-09-30
+Laptops_ChromebookMix,Laptops - Chromebook Mix,Computers & Laptops,1,2026-07-21,2026-07-21
+Laptops (From ES Mix),Laptops - Mixed,Computers & Laptops,1,2026-01-30,2026-01-30
+Laptops_Mixed,Laptops - Mixed,Computers & Laptops,12,2025-01-06,2026-06-08
+Laptops_mixed,Laptops - Mixed,Computers & Laptops,2,2025-01-06,2025-01-31
+PC_All-In-Ones,PC - All-In-Ones,Computers & Laptops,14,2025-01-31,2026-07-24
+PC_Incomplete,PC - Incomplete,Computers & Laptops,11,2025-06-26,2026-07-21
+PC_MixedTowers,PC - Mixed Towers,Computers & Laptops,13,2025-01-06,2025-05-16
+PCs,PC - Mixed Towers,Computers & Laptops,2,2025-09-30,2026-01-30
+Tablets_Tablets,Tablets,Computers & Laptops,2,2026-03-12,2026-07-21
+Freight - Trucking,Freight - Trucking,Fees / Adjustments,9,2025-01-06,2025-08-08
+Capacitors (No Value),Capacitors,Industrial,1,2025-04-17,2025-04-17
+Compressor-Scrap,Compressors,Industrial,1,2025-08-04,2025-08-04
+Electric Motors,Electric Motors,Industrial,2,2025-04-17,2025-09-30
+Industrial_ElectricMotor,Electric Motors,Industrial,4,2025-01-06,2025-05-13
+Fans,Fans,Industrial,1,2025-10-08,2025-10-08
+Aluminum,Aluminum,Metals,1,2026-07-24,2026-07-24
+Aluminum_AOS,Aluminum - AOS,Metals,1,2026-07-21,2026-07-21
+Aluminum - Breakage,Aluminum - Breakage,Metals,1,2025-09-30,2025-09-30
+Aluminum-Breakage,Aluminum - Breakage,Metals,6,2025-01-06,2025-05-16
+Aluminum_Breakage,Aluminum - Breakage,Metals,7,2025-03-05,2026-04-02
+Aluminum Module,Aluminum - Module,Metals,2,2025-09-30,2026-01-30
+Aluminum_Module,Aluminum - Module,Metals,2,2025-04-17,2025-11-06
+Chassis (From ES Mix),Chassis,Metals,1,2026-01-30,2026-01-30
+Chassis_Chassis,Chassis,Metals,3,2025-01-06,2025-05-16
+Shred,Shred,Metals,5,2025-08-08,2026-01-30
+Shred_Shred,Shred,Metals,6,2025-01-06,2025-05-16
+Steel,Steel,Metals,17,2025-01-06,2026-07-24
+ES Mix,ES Mix (aggregate),Mixed / Aggregate,2,2026-07-21,2026-07-24
+ES-Mix,ES Mix (aggregate),Mixed / Aggregate,8,2025-08-04,2026-06-15
+Consumer Goods (No Value),Consumer Goods,Other,1,2025-05-13,2025-05-13
+ConsumerGoods_HomeElectronics,Consumer Goods,Other,2,2025-10-08,2026-04-02
+Light Bulbs (No Value),Lighting,Other,1,2025-01-06,2025-01-06
+Light_Fixtures,Lighting,Other,1,2026-06-08,2026-06-08
+MDU,MDU,Other,8,2025-01-06,2026-01-30
+Medical Equipment,Medical Equipment,Other,1,2025-09-30,2025-09-30
+MedicalEquipment_Medical,Medical Equipment,Other,4,2025-01-06,2026-01-30
+Mixed Medical Equipment,Medical Equipment,Other,1,2025-04-17,2025-04-17
+Docking Stations,Docking Stations,Peripherals & Accessories,1,2025-09-30,2025-09-30
+Docking Stations (From ES Mix),Docking Stations,Peripherals & Accessories,1,2026-01-30,2026-01-30
+DockingStations_DockingStation,Docking Stations,Peripherals & Accessories,6,2025-01-06,2025-05-16
+Keyboards (From ES Mix),Keyboards / Mice,Peripherals & Accessories,1,2026-01-30,2026-01-30
+Keyboards and Mice (No Value),Keyboards / Mice,Peripherals & Accessories,1,2025-01-06,2025-01-06
+Keyboards/Mice,Keyboards / Mice,Peripherals & Accessories,1,2025-09-30,2025-09-30
+Keyboards/Mice (No Value),Keyboards / Mice,Peripherals & Accessories,3,2025-04-17,2025-05-16
+Keyboards_Keyboards_Mice (No Value),Keyboards / Mice,Peripherals & Accessories,2,2025-01-31,2025-03-05
+Printer/Scanner (From ES Mix),Printers,Peripherals & Accessories,1,2026-01-30,2026-01-30
+Printers,Printers,Peripherals & Accessories,8,2025-08-04,2026-07-24
+Printers (No Value),Printers,Peripherals & Accessories,8,2025-01-31,2025-11-06
+Printers_Printers (No Value),Printers,Peripherals & Accessories,1,2025-03-05,2025-03-05
+Scanners__scanner/cardreader,Printers,Peripherals & Accessories,4,2025-01-06,2025-05-13
+Projectors_projector,Projectors,Peripherals & Accessories,1,2025-01-06,2025-01-06
+Toner,Toner,Peripherals & Accessories,3,2026-01-30,2026-06-08
+Toner (No Value),Toner,Peripherals & Accessories,3,2025-01-06,2025-05-13
+AV_CB-Radio,AV Equipment,Phones & AV,1,2025-09-30,2025-09-30
+AV_Equipment,AV Equipment,Phones & AV,1,2026-05-06,2026-05-06
+AV_equipment,AV Equipment,Phones & AV,6,2025-01-06,2025-05-16
+Audio/Video,AV Equipment,Phones & AV,2,2025-09-30,2026-01-30
+Phones_Cell-Mix,Phones - Cell Mix,Phones & AV,1,2025-04-17,2025-04-17
+Office Phones (From ES Mix),Phones - Office,Phones & AV,1,2026-01-30,2026-01-30
+Phones - Office Phones,Phones - Office,Phones & AV,1,2025-09-30,2025-09-30
+Phones OfficePhones,Phones - Office,Phones & AV,1,2025-05-13,2025-05-13
+Phones_OfficePhones,Phones - Office,Phones & AV,7,2025-01-06,2026-01-30
+AdapterLaptop,Adapters - Laptop,Power & Electrical,5,2025-01-06,2025-05-13
+Adapter_Laptop,Adapters - Laptop,Power & Electrical,2,2025-01-31,2026-04-02
+Adapter_No Wire,Adapters - No Wire,Power & Electrical,5,2025-01-06,2025-05-13
+Adapters - No Wire,Adapters - No Wire,Power & Electrical,2,2025-09-30,2026-01-30
+Adapter With wire,Adapters - With Wire,Power & Electrical,1,2025-08-04,2025-08-04
+Adapter_WithWire,Adapters - With Wire,Power & Electrical,2,2025-04-17,2025-05-13
+Adapter_withWire,Adapters - With Wire,Power & Electrical,4,2025-03-05,2026-07-24
+Adapters - With Wire,Adapters - With Wire,Power & Electrical,1,2025-09-30,2025-09-30
+Inverters,Inverters,Power & Electrical,1,2026-06-08,2026-06-08
+PSU Industrial,PSU - Industrial,Power & Electrical,1,2025-03-05,2025-03-05
+PSU_Industrial,PSU - Industrial,Power & Electrical,3,2025-01-31,2025-05-13
+PSUs - Industrial PSU,PSU - Industrial,Power & Electrical,1,2025-09-30,2025-09-30
+PSU SPSU,PSU - SPSU,Power & Electrical,1,2025-01-31,2025-01-31
+PSU_SPSU,PSU - SPSU,Power & Electrical,3,2025-04-17,2025-05-16
+PSUs - SPSU,PSU - SPSU,Power & Electrical,1,2025-09-30,2025-09-30
+PSU_withwire,PSU - With Wire,Power & Electrical,5,2025-01-31,2025-05-16
+PSUs - With Wire,PSU - With Wire,Power & Electrical,2,2025-09-30,2026-01-30
+PowerCabinet_10,Power Cabinet,Power & Electrical,1,2026-06-15,2026-06-15
+PowerCabinet_25,Power Cabinet,Power & Electrical,1,2026-01-30,2026-01-30
+Strip_Power-Strip,Power Strips,Power & Electrical,2,2025-01-31,2026-06-08
+Breakers_Switch-Breakers,Switches / Breakers,Power & Electrical,4,2025-03-05,2025-05-16
+SWITCH AND BREAKERS (From ES Mix),Switches / Breakers,Power & Electrical,1,2026-01-30,2026-01-30
+Switch And Breakers,Switches / Breakers,Power & Electrical,1,2025-09-30,2025-09-30
+UPS_NoBatteries,UPS - No Batteries,Power & Electrical,1,2025-03-05,2025-03-05
+UPS WithBattery,UPS - With Batteries,Power & Electrical,1,2025-01-06,2025-01-06
+UPS with Batteries,UPS - With Batteries,Power & Electrical,1,2026-05-06,2026-05-06
+UPS with Battery,UPS - With Batteries,Power & Electrical,1,2025-09-30,2025-09-30
+UPS_WithBatteries,UPS - With Batteries,Power & Electrical,13,2025-03-05,2026-07-24
+UPS_WithBattery,UPS - With Batteries,Power & Electrical,3,2025-01-31,2025-05-13
+FocusMaterial_CRT,CRT,Screens & Displays,4,2025-01-06,2026-06-15
+Flat Screen TV (No Value),Screens - LCD / Flat,Screens & Displays,1,2025-01-06,2025-01-06
+LCD_with Stands,Screens - LCD / Flat,Screens & Displays,2,2025-09-30,2026-01-30
+LCDs - With Stands (No Value),Screens - LCD / Flat,Screens & Displays,1,2025-03-05,2025-03-05
+LCDs w/ Stands (No Value),Screens - LCD / Flat,Screens & Displays,2,2025-04-17,2025-04-17
+Screen_Flatscreen (No Value),Screens - LCD / Flat,Screens & Displays,1,2025-03-05,2025-03-05
+Screen_FlatscreenTV,Screens - LCD / Flat,Screens & Displays,2,2025-08-04,2025-09-30
+Screen_FlatscreenTV (No Value),Screens - LCD / Flat,Screens & Displays,2,2026-01-30,2026-03-12
+Screen_LCD (No Value),Screens - LCD / Flat,Screens & Displays,2,2025-01-06,2025-01-06
+Screen_LCD-Mix,Screens - LCD / Flat,Screens & Displays,17,2025-03-05,2026-07-24
+Screen_LCD-Mix (No Value),Screens - LCD / Flat,Screens & Displays,1,2025-03-13,2025-03-13
+Screen_LCD-mix (No Value),Screens - LCD / Flat,Screens & Displays,2,2025-01-31,2025-01-31
+Screen_Lcd-mix,Screens - LCD / Flat,Screens & Displays,1,2025-05-13,2025-05-13
+Cable Boxes,Cable Box / Modem,Servers & Network,1,2026-01-30,2026-01-30
+CableBox_Modem,Cable Box / Modem,Servers & Network,6,2025-01-06,2025-05-16
+Cable/Router,Network,Servers & Network,1,2025-09-30,2025-09-30
+Network,Network,Servers & Network,11,2025-01-06,2026-03-12
+Network (From ES Mix),Network,Servers & Network,1,2026-01-30,2026-01-30
+Network_Network,Network,Servers & Network,6,2025-01-06,2025-05-16
+Server Incomplete,Server - Incomplete,Servers & Network,1,2025-09-30,2025-09-30
+Server_Incomplete,Server - Incomplete,Servers & Network,3,2026-06-08,2026-07-21
+Server_Mix,Server - Mixed,Servers & Network,8,2025-03-05,2026-04-02
+Server__Mixed,Server - Mixed,Servers & Network,3,2025-01-31,2025-05-13
+Server__mixed,Server - Mixed,Servers & Network,1,2025-01-06,2025-01-06
+COMPUTER WIRE,Wire - Computer,Wire,1,2026-01-30,2026-01-30
+Wire - Computer,Wire - Computer,Wire,1,2025-09-30,2025-09-30
+Wire_Computer,Wire - Computer,Wire,7,2025-01-06,2025-11-06
+Wire_Mix,Wire - Mix,Wire,17,2025-01-06,2026-07-24

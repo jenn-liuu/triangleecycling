@@ -1,0 +1,144 @@
+row_id,brand,model,cpu_family,cpu_core,ram_raw,grade,missing_item,note,qty,missing_deduction_per_unit,unit_price,bulk_line_price,ram_gb,cpu_gen_intel,has_defect,line_value_unit_x_qty,bulk_check_ok
+1,Dell,Latitude 5510,i7,10610U,16GB,C,,,4.0,0,70,280,16.0,10.0,False,280.0,True
+2,Lenovo,ThinkPad L15 Gen 2,Ryzen,5 PRO 5650U,16GB,B,,Bad screen,1.0,0,50,50,16.0,,True,50.0,True
+3,Lenovo,ThinkPad T14s Gen 1,i5,10210U,8GB,C,,No power,1.0,0,35,35,8.0,10.0,True,35.0,True
+4,Lenovo,ThinkPad L15 Gen 1,Ryzen,7 PRO 4750U,16GB,C,,No power,1.0,0,80,80,16.0,,True,80.0,True
+5,Lenovo,ThinkPad L15 Gen 1,Ryzen,7 PRO 4750U,16GB,A,,,1.0,0,180,180,16.0,,False,180.0,True
+6,Dell,Latitude 5510,i7,10610U,16GB,B,,,9.0,0,80,720,16.0,10.0,False,720.0,True
+7,Lenovo,ThinkPad L15 Gen 1,Ryzen,5 PRO 5650U,16GB,B,,,1.0,0,90,90,16.0,,False,90.0,True
+8,Lenovo,ThinkPad T14s Gen 2,i5,1145G7,16GB,B,,,1.0,0,70,70,16.0,11.0,False,70.0,True
+9,Dell,Latitude 5410,i7,10610U,16GB,C,,,6.0,0,70,420,16.0,10.0,False,420.0,True
+10,Lenovo,ThinkPad T14s Gen 2,i5,1145G7,16GB,A,,,3.0,0,80,240,16.0,11.0,False,240.0,True
+11,Microsoft,Surface Laptop 4,i7,1185G7,16GB,A,,,2.0,0,120,240,16.0,11.0,False,240.0,True
+12,Dell,Latitude 5400,i5,8265U,16GB,B,,,1.0,0,60,60,16.0,8.0,False,60.0,True
+13,Lenovo,ThinkPad T14s Gen 2,i5,1145G7,16GB,C,,,2.0,0,60,120,16.0,11.0,False,120.0,True
+14,Lenovo,ThinkPad T470,i7,7500U,16GB,A,,,1.0,0,60,60,16.0,7.0,False,60.0,True
+15,Lenovo,ThinkPad T470,i7,7500U,8GB,C,,,1.0,0,40,40,8.0,7.0,False,40.0,True
+16,Lenovo,ThinkPad T470,i7,7500U,8GB,B,,,1.0,0,50,50,8.0,7.0,False,50.0,True
+17,Dell,Latitude 5410,i7,10610U,16GB,B,,,7.0,0,80,560,16.0,10.0,False,560.0,True
+18,Dell,Latitude 5420,i7,1165G7,16GB,B,,,2.0,0,110,220,16.0,11.0,False,220.0,True
+19,Dell,Latitude 7400 2n1,i5,8365U,8GB,A,,,1.0,0,70,70,8.0,8.0,False,70.0,True
+20,Dell,Latitude 7290,i5,8350U,8GB,A,,,1.0,0,70,70,8.0,8.0,False,70.0,True
+21,Dell,Latitude 7400,i5,8265U,8GB,B,,,1.0,0,60,60,8.0,8.0,False,60.0,True
+22,Dell,Inspiron 5570,i5,8250U,8GB,C,CD drive,,1.0,0,50,50,8.0,8.0,True,50.0,True
+23,Microsoft,Surface Laptop 4,i7,1185G7,16GB,C,,,7.0,0,100,700,16.0,11.0,False,700.0,True
+24,Dell,Latitude 7490,i5,8250U,8GB,B,,,2.0,0,60,120,8.0,8.0,False,120.0,True
+25,Dell,Latitude 7490,i5,8250U,8GB,A,,,1.0,0,70,70,8.0,8.0,False,70.0,True
+26,Dell,Latitude 5510,i7,10610U,16GB,B,Key,,2.0,0,80,160,16.0,10.0,True,160.0,True
+27,Dell,Latitude 3510,i5,10210U,8GB,C,,,1.0,0,70,70,8.0,10.0,False,70.0,True
+28,Dell,Precision 3551,i5,10400H,16GB,C,,,1.0,0,70,70,16.0,10.0,False,70.0,True
+29,Dell,Latitude 7420,i7,1165G7,16GB,C,,,2.0,0,100,200,16.0,11.0,False,200.0,True
+30,Dell,Latitude 7420,i7,1165G7,16GB,B,,,2.0,0,110,220,16.0,11.0,False,220.0,True
+31,Dell,Latitude 5520,i7,1185G7,16GB,C,,,1.0,0,100,100,16.0,11.0,False,100.0,True
+32,Dell,Inspiron 5593,i5,1035G1,8GB,A,,,1.0,0,90,90,8.0,10.0,False,90.0,True
+33,Dell,Inspiron 15 3511,i5,1135G7,8GB,A,,,2.0,0,80,160,8.0,11.0,False,160.0,True
+34,Dell,Latitude 7410,i7,10610U,32GB,B,,,1.0,0,80,80,32.0,10.0,False,80.0,True
+35,Microsoft,Surface Laptop 4,i7,1185G7,16GB,B,,,9.0,0,110,990,16.0,11.0,False,990.0,True
+36,Lenovo,ThinkPad L15 Gen 3,Ryzen,5 PRO 5675U,16GB,B,,,1.0,0,90,90,16.0,,False,90.0,True
+37,Lenovo,ThinkPad E14 Gen 4,i3,1215U,8GB,A,,,2.0,0,100,200,8.0,12.0,False,200.0,True
+38,Lenovo,ThinkPad T490,i5,8265U,8GB,B,,,1.0,0,60,60,8.0,8.0,False,60.0,True
+39,Dell,Latitude 7400,i5,8265U,0GB,C,,,2.0,0,50,100,0.0,8.0,False,100.0,True
+40,Dell,Latitude 3490,i5,8250U,0GB,C,,,1.0,0,50,50,0.0,8.0,False,50.0,True
+41,Lenovo,ThinkPad T490s,i5,8265U,0GB,B,,,1.0,0,60,60,0.0,8.0,False,60.0,True
+42,Dell,Latitude 7390,i5,8350U,0GB,B,,,1.0,0,60,60,0.0,8.0,False,60.0,True
+43,Dell,Latitude 7390,i5,8350U,8GB,A,,,1.0,0,70,70,8.0,8.0,False,70.0,True
+44,Dell,Latitude 3400,i5,8265U,8GB,A,,,1.0,7,70,63,8.0,8.0,False,70.0,True
+45,Dell,Latitude 5490,i5,8350U,0GB,B,,,1.0,0,60,60,0.0,8.0,False,60.0,True
+46,Lenovo,ThinkPad T490s,i5,8365U,8GB,C,,,1.0,0,50,50,8.0,8.0,False,50.0,True
+47,Dell,Latitude T480s,i5,8350U,8GB,B,,,2.0,0,60,120,8.0,8.0,False,120.0,True
+48,Lenovo,ThinkPad T480,i5,8250U,8GB,B,,,2.0,0,60,120,8.0,8.0,False,120.0,True
+49,Lenovo,ThinkBook 13s G2 ARE,Ryzen,7 4800U,16GB,A,,,1.0,0,140,140,16.0,,False,140.0,True
+50,HP,Laptop 15,i3,1215U,8GB,A,,,1.0,0,100,100,8.0,12.0,False,100.0,True
+51,Lenovo,ThinkPad T490s,i5,8365U,8GB,B,,,2.0,0,60,120,8.0,8.0,False,120.0,True
+52,Dell,Precision 7530,i7,8750H,32GB,A,,,1.0,0,70,70,32.0,8.0,False,70.0,True
+53,Dell,Latitude 3410,i5,10210U,8GB,B,,,1.0,0,80,80,8.0,10.0,False,80.0,True
+54,Dell,Latitude 3510,i5,10210U,8GB,D,,,1.0,0,35,35,8.0,10.0,False,35.0,True
+55,Dell,Latitude 5420,i7,1185G7,16GB,B,,,1.0,0,110,110,16.0,11.0,False,110.0,True
+56,Dell,Precision 3561,i7,11800H,16GB,B,,,1.0,0,110,110,16.0,11.0,False,110.0,True
+57,Dell,G7,i7,8750H,8GB,C,,,1.0,0,50,50,8.0,8.0,False,50.0,True
+58,ASUS,Vivobook F1400e,i5,1135G7,8GB,B,,,1.0,0,70,70,8.0,11.0,False,70.0,True
+59,Dell,Latitude T480s,i5,8350U,8GB,C,,,2.0,0,50,100,8.0,8.0,False,100.0,True
+60,Lenovo,ThinkPad P1,i7,8750H,16GB,B,,,1.0,0,60,60,16.0,8.0,False,60.0,True
+61,Lenovo,ThinkPad X280,i5,8350U,8GB,C,,,2.0,0,50,100,8.0,8.0,False,100.0,True
+62,HP,ProBook 430 G5,i5,8250U,8GB,B,,,3.0,0,60,180,8.0,8.0,False,180.0,True
+63,HP,EliteBook 850 G6,i7,8565U,16GB,B,,,2.0,0,60,120,16.0,8.0,False,120.0,True
+64,Lenovo,ThinkPad L15 Gen 1,Ryzen,7 PRO 4750U,16GB,C,,,1.0,0,160,160,16.0,,False,160.0,True
+65,HP,Laptop 15,i3,1215U,8GB,B,,Bad screen,1.0,0,50,50,8.0,12.0,True,50.0,True
+66,HP,ENVY x360 15m,i5,8250U,8GB,B,,Bad screen,1.0,0,35,35,8.0,8.0,True,35.0,True
+67,Dell,Latitude 7420,i5,1145G7,16GB,C,,,17.0,0,60,1020,16.0,11.0,False,1020.0,True
+68,Dell,Latitude 7410,i7,10610U,32GB,C,,,1.0,0,70,70,32.0,10.0,False,70.0,True
+69,Dell,Latitude 7430,i7,1270P,32GB,C,,,1.0,0,120,120,32.0,12.0,False,120.0,True
+70,Dell,G7 7588,i7,8750H,8GB,B,Bottom cover,,1.0,0,60,60,8.0,8.0,True,60.0,True
+71,Dell,G3,i7,10750H,8GB,B,,,1.0,0,80,80,8.0,10.0,False,80.0,True
+72,Lenovo,ThinkPad X1 Carbon,i7,8550U,8GB,B,,,1.0,0,60,60,8.0,8.0,False,60.0,True
+73,HP,ProBook 640 G8,i5,1135G7,16GB,A,,,1.0,0,80,80,16.0,11.0,False,80.0,True
+74,Dell,Latitude 3540,i5,1335U,16GB,B,,,4.0,0,120,480,16.0,13.0,False,480.0,True
+75,Lenovo,ThinkPad E15 Gen 1,i5,10210U,8GB,B,,,1.0,0,80,80,8.0,10.0,False,80.0,True
+76,Lenovo,ThinkPad T14 Gen 1,Ryzen,7 PRO 4750U,16GB,B,Battery,,1.0,-15,170,185,16.0,,True,170.0,True
+77,Lenovo,ThinkPad E15 Gen 1,i7,10510U,8GB,C,,,1.0,0,70,70,8.0,10.0,False,70.0,True
+78,HP,Pavilion 14-ek,i5,1135G7,16GB,A,,,1.0,0,80,80,16.0,11.0,False,80.0,True
+79,Lenovo,ThinkPad P15 Gen 2,i7,11800H,32GB,B,,,1.0,0,110,110,32.0,11.0,False,110.0,True
+80,Lenovo,ThinkPad P51,Xeon,E3-1535M,64GB,A,,,1.0,0,70,70,64.0,,False,70.0,True
+81,Lenovo,ThinkPad X1 Carbon,i5,1135G7,8GB,A,,,1.0,0,80,80,8.0,11.0,False,80.0,True
+82,Lenovo,ThinkPad T14 Gen 2,Ryzen,5 PRO 5650U,16GB,C,,,1.0,0,80,80,16.0,,False,80.0,True
+83,Lenovo,ThinkPad X13 Gen 1,i5,10210U,8GB,C,,,2.0,0,70,140,8.0,10.0,False,140.0,True
+84,Dell,XPS ,i5,10210U,8GB,B,,No power,1.0,0,35,35,8.0,10.0,True,35.0,True
+85,Lenovo,ThinkPad X1 Carbon,i5,10210U,16GB,A,,,1.0,0,90,90,16.0,10.0,False,90.0,True
+86,Lenovo,ThinkPad T14 Gen 1,Ryzen,7 PRO 4750U,16GB,A,,,1.0,0,180,180,16.0,,False,180.0,True
+87,Dell,Latitude 5590,i5,8350U,8GB,C,,,1.0,0,50,50,8.0,8.0,False,50.0,True
+88,Lenovo,ThinkPad L390 ,i5,8265U,8GB,B,,,1.0,0,60,60,8.0,8.0,False,60.0,True
+89,Dell,Inspiron 3501,i5,1035G1,8GB,B,,,1.0,0,80,80,8.0,10.0,False,80.0,True
+90,Lenovo,ThinkPad T15 Gen 2,i5,1135G7,16GB,C,,,1.0,0,60,60,16.0,11.0,False,60.0,True
+91,Lenovo,ThinkPad T15 Gen 1,i5,10210U,16GB,B,,,2.0,0,80,160,16.0,10.0,False,160.0,True
+92,Lenovo,ThinkPad T14 Gen 1,i5 ,10210U,8GB,B,,,2.0,0,80,160,8.0,10.0,False,160.0,True
+93,Lenovo,ThinkPad X13 Gen 1,i5,10210U,8GB,B,,,2.0,0,80,160,8.0,10.0,False,160.0,True
+94,Lenovo,ThinkPad P71,Xeon,E3-1505M,16GB,B,,,1.0,0,60,60,16.0,,False,60.0,True
+95,Lenovo,ThinkPad P51,i7,7700HQ,16GB,C,,,1.0,0,80,80,16.0,7.0,False,80.0,True
+96,Dell,Latitude 5530,i5,1235U,16GB,B,,,1.0,0,90,90,16.0,12.0,False,90.0,True
+97,Dell,Latitude 7530,i5,1235U,8GB,B,,,1.0,0,90,90,8.0,12.0,False,90.0,True
+98,Dell,Latitude 5520,i7,1185G7,16GB,B,,,1.0,0,110,110,16.0,11.0,False,110.0,True
+99,Dell,Latitude 5520,i7,1165G7,16GB,C,,,1.0,0,100,100,16.0,11.0,False,100.0,True
+100,Dell,Precision 3560,i5,1135G7,16GB,B,,,1.0,0,70,70,16.0,11.0,False,70.0,True
+101,Dell,Precision 3560,i5,1135G7,16GB,C,,,3.0,0,60,180,16.0,11.0,False,180.0,True
+102,Dell,Latitude 7400,i7,8665U,16GB,C,,,20.0,0,50,1000,16.0,8.0,False,1000.0,True
+103,Dell,Latitude 5440,i7,1365U,16GB,B,,,1.0,0,170,170,16.0,13.0,False,170.0,True
+104,Dell,Precision 5540,i9,9880H,32GB,B,,,1.0,0,190,190,32.0,9.0,False,190.0,True
+105,Lenovo,ThinkPad P15 Gen 2,i7,11850H,8GB,B,,,1.0,0,110,110,8.0,11.0,False,110.0,True
+106,Lenovo,ThinkPad P15 Gen 2,i7,11850H,8GB,C,,,1.0,0,100,100,8.0,11.0,False,100.0,True
+107,Dell,Latitude 7410,i7,10610U,16GB,C,,,4.0,0,70,280,16.0,10.0,False,280.0,True
+108,Lenovo,ThinkPad T14 Gen 3,i7,1260P,16GB,B,,,1.0,0,130,130,16.0,12.0,False,130.0,True
+109,Lenovo,ThinkPad T15 Gen 2,i5,1135G7,8GB,B,,,1.0,0,70,70,8.0,11.0,False,70.0,True
+110,Dell,Precision 5530,i7,8850H,32GB,C,,,2.0,0,50,100,32.0,8.0,False,100.0,True
+111,Dell,Precision 5510,Xeon,E3-1505M V5,16GB,B,,,1.0,0,70,70,16.0,,False,70.0,True
+112,Lenovo,ThinkPad X390,i5,8365U,8GB,C,,,1.0,0,50,50,8.0,8.0,False,50.0,True
+113,Lenovo,ThinkPad T490s,i5,8365U,8GB,A,,,1.0,0,70,70,8.0,8.0,False,70.0,True
+114,Lenovo,ThinkPad P15s Gen 1,i7,10510U,16GB,B,,,1.0,0,80,80,16.0,10.0,False,80.0,True
+115,Dell,Latitude 7420,i7,1185G7,32GB,C,,,16.0,0,100,1600,32.0,11.0,False,1600.0,True
+116,Dell,Latitude 7430,i7,1270P,32GB,B,,,1.0,0,130,130,32.0,12.0,False,130.0,True
+117,Lenovo,ThinkPad T480s,i7,8650U,8GB,C,,No power,1.0,0,35,35,8.0,8.0,True,35.0,True
+118,Lenovo,ThinkPad T480s,i7,8650U,8GB,B,,,3.0,0,60,180,8.0,8.0,False,180.0,True
+119,Lenovo,ThinkPad T490,i7,8565U,8GB,B,,,2.0,0,60,120,8.0,8.0,False,120.0,True
+120,Lenovo,ThinkPad T490s,i7,8665U,8GB,B,,,4.0,0,60,240,8.0,8.0,False,240.0,True
+121,Dell,Latitude 5440,i7,1365U,32GB,B,,,2.0,0,170,340,32.0,13.0,False,340.0,True
+122,Dell,Latitude 5540,i7,1365U,16GB,B,,,1.0,0,170,170,16.0,13.0,False,170.0,True
+123,Dell,Latitude 5510,i7,10610U,16GB,A,,,1.0,0,90,90,16.0,10.0,False,90.0,True
+124,Lenovo,ThinkPad T14 Gen 1,Ryzen,5 PRO 4650U,16GB,C,,,1.0,0,80,80,16.0,,False,80.0,True
+125,Lenovo,ThinkPad P15s Gen 2,i7,1165G7,16GB,C,,,3.0,0,100,300,16.0,11.0,False,300.0,True
+126,Lenovo,ThinkPad T480s,i7,8650U,8GB,C,,,2.0,0,50,100,8.0,8.0,False,100.0,True
+127,Lenovo,ThinkPad P15s Gen 2,i7,1165G7,16GB,B,,,1.0,0,110,110,16.0,11.0,False,110.0,True
+128,Lenovo,ThinkPad P15s Gen 2,i7,1165G7,32GB,B,,,1.0,0,110,110,32.0,11.0,False,110.0,True
+129,Lenovo,ThinkPad T14s Gen 2,i7,1165G7,16GB,B,,,1.0,0,110,110,16.0,11.0,False,110.0,True
+130,Apple,MacBook Pro,i7,8750H,16GB,C,,,1.0,0,50,50,16.0,8.0,False,50.0,True
+131,HP,ZBook 15u G5,i5,8250U,24GB,A,,,1.0,0,70,70,24.0,8.0,False,70.0,True
+132,HP,ZBook 15u G5,i5,8250U,24GB,C,,,1.0,0,50,50,24.0,8.0,False,50.0,True
+133,HP,ProBook x360 440 G1,i5,8250U,8GB,B,,,6.0,0,60,360,8.0,8.0,False,360.0,True
+134,Dell,Latitude 3520,i5,1135G7,0GB,B,,,2.0,0,70,140,0.0,11.0,False,140.0,True
+135,Lenovo,ThinkPad T14s Gen 1,i5,10310U,16GB,C,,,5.0,0,70,350,16.0,10.0,False,350.0,True
+136,Dell,Latitude 5401,i5,9400H,8GB,C,,,4.0,0,60,240,8.0,9.0,False,240.0,True
+137,Dell,Latitude 5401,i5,9400H,8GB,B,,,3.0,0,70,210,8.0,9.0,False,210.0,True
+138,Dell,Inspiron 5584,i5,8265U,16GB,C,,,1.0,0,50,50,16.0,8.0,False,50.0,True
+139,Dell,Latitude 7490,i7,8650U,8GB,A,,,1.0,0,70,70,8.0,8.0,False,70.0,True
+140,Dell,Inspiron 3580,i5,8265U,16GB,B,,,1.0,0,60,60,16.0,8.0,False,60.0,True
+141,Dell,Inspiron 3593,i5,1035G1,8GB,C,,,2.0,0,70,140,8.0,10.0,False,140.0,True
+142,Lenovo,ThinkPad T490,i7,8665U,32GB,B,,,6.0,0,60,360,32.0,8.0,False,360.0,True
+143,Dell,Latitude 5490,i5,8350U,8GB,B,,,8.0,0,60,480,8.0,8.0,False,480.0,True
